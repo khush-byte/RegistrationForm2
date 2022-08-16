@@ -16,10 +16,12 @@ namespace RegistrationForm
     {
         string connString = @"Data Source=(localdb)\MSSQLLocalDB; AttachDbFilename=|DataDirectory|\Database.mdf; Integrated Security=True;";
         string date;
-        string locationName = "";
         string commod = "";
         string unit_value = "";
+        string district = "";
+        string jamoat = "";
         string msgClean, msgFill, message, msgAdd, msgNumber, messageDel;
+        public static String[] info;
 
         public Form3()
         {
@@ -48,7 +50,7 @@ namespace RegistrationForm
                 selectLocation(name, comboLocation2_d);
             }
 
-            locationName = comboLocation_d.SelectedItem.ToString();
+            district = comboLocation_d.SelectedItem.ToString();
         }
 
         private void selectLocation(string name, ComboBox item)
@@ -144,10 +146,47 @@ namespace RegistrationForm
 
         private void btn_next_d_Click(object sender, EventArgs e)
         {
-            Main form = new Main();
-            this.Hide();
-            form.ShowDialog();
-            this.Close();
+            if (comboLocation_d.Text == "Дигар")
+            {
+                district = textLocation_d.Text.ToString();
+                jamoat = textLocation2_d.Text.ToString();
+            }
+            if (comboLocation2_d.Text == "Дигар") jamoat = textLocation2_d.Text.ToString();
+
+            if (comboProject_d.SelectedIndex != -1 && district.Length > 0 && jamoat.Length > 0 && textVil.Text.Length > 0 && textDist.Text.Length > 0 && textWitn.Text.Length > 0)
+            {
+                List<string> list = new List<string>();
+                list.Add(comboProject_d.Text.ToString());
+                list.Add(district);
+                list.Add(jamoat);
+                list.Add(textVil.Text.ToString());
+                list.Add(textDist.Text.ToString());
+                list.Add(textWitn.Text.ToString());
+                info = list.ToArray();
+
+                Form4 form = new Form4();
+                this.Hide();
+                form.ShowDialog();
+                this.Close();
+            }
+            else 
+            {
+                MessageBox.Show(msgFill, "Massage", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+            }
+        }
+
+        private void comboLocation2_d_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (comboLocation2_d.Text == "Дигар")
+            {
+                textLocation2_d.Visible = true;
+            }
+            else
+            {
+                textLocation2_d.Visible = false;
+            }
+
+            jamoat = comboLocation2_d.SelectedItem.ToString();
         }
 
         private void btn_edit_d_Click(object sender, EventArgs e)
@@ -235,7 +274,7 @@ namespace RegistrationForm
             if (comboCom.Text == "Дигар") commod = textCom.Text.ToString();
             if (comboUnit.Text == "Дигар") unit_value = textUnit.Text.ToString();
 
-            if (commod.Length > 0 && unit_value.Length > 0 && packFiled.Text.Length > 0 && totalField.Text.Length > 0)
+            if (commod.Length > 0 && unit_value.Length > 0 && packFiled.Text.Length > 0 && totalField.Text.Length > 0 && conditionField.Text.Length > 0)
             {
                 var result = MessageBox.Show(message, "Message",
                                              MessageBoxButtons.OKCancel,
@@ -252,6 +291,7 @@ namespace RegistrationForm
                         cmd.Parameters.Add("@unit", SqlDbType.NVarChar).Value = unit_value;
                         cmd.Parameters.Add("@packageSum", SqlDbType.NVarChar).Value = packFiled.Text.ToString();
                         cmd.Parameters.Add("@total", SqlDbType.NVarChar).Value = totalField.Text.ToString();
+                        cmd.Parameters.Add("@condition", SqlDbType.NVarChar).Value = conditionField.Text.ToString();
 
                         int i = cmd.ExecuteNonQuery();
                         if (i != 0)
@@ -264,6 +304,7 @@ namespace RegistrationForm
 
                     packFiled.Clear();
                     totalField.Clear();
+                    conditionField.Clear();
                 }
             }
             else MessageBox.Show(msgFill, "Massage", MessageBoxButtons.OK, MessageBoxIcon.Stop);

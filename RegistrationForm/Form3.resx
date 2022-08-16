@@ -972,7 +972,7 @@
     <value>NoControl</value>
   </data>
   <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>764, 2</value>
+    <value>763, 2</value>
   </data>
   <data name="pictureBox1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 2, 13, 2</value>
@@ -1299,13 +1299,13 @@
     <value>NoControl</value>
   </data>
   <data name="pictureBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>945, 2</value>
+    <value>944, 2</value>
   </data>
   <data name="pictureBox2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 2, 3, 2</value>
   </data>
   <data name="pictureBox2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>225, 42</value>
+    <value>224, 42</value>
   </data>
   <data name="pictureBox2.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>Zoom</value>
@@ -1356,7 +1356,7 @@
     <value>0</value>
   </data>
   <data name="tableLayoutPanel2.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="tableLayoutPanel12" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="pictureBox1" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="pictureBox2" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Absolute,760,Percent,44,03893,Percent,55,96107,Absolute,54" /&gt;&lt;Rows Styles="Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="tableLayoutPanel12" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="pictureBox1" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="pictureBox2" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Absolute,760,Percent,44,03893,Percent,55,96107,Absolute,58" /&gt;&lt;Rows Styles="Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="label2.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1413,7 +1413,7 @@
     <value>6</value>
   </data>
   <data name="nameDataGridViewTextBoxColumn.Width" type="System.Int32, mscorlib">
-    <value>600</value>
+    <value>540</value>
   </data>
   <data name="unitDataGridViewTextBoxColumn.HeaderText" xml:space="preserve">
     <value>Unit</value>
@@ -1422,7 +1422,7 @@
     <value>6</value>
   </data>
   <data name="unitDataGridViewTextBoxColumn.Width" type="System.Int32, mscorlib">
-    <value>400</value>
+    <value>300</value>
   </data>
   <data name="packageSumDataGridViewTextBoxColumn.HeaderText" xml:space="preserve">
     <value>Total number of packages</value>
@@ -1431,7 +1431,7 @@
     <value>6</value>
   </data>
   <data name="packageSumDataGridViewTextBoxColumn.Width" type="System.Int32, mscorlib">
-    <value>400</value>
+    <value>300</value>
   </data>
   <data name="totalDataGridViewTextBoxColumn.HeaderText" xml:space="preserve">
     <value>Total weight</value>
@@ -1440,7 +1440,19 @@
     <value>6</value>
   </data>
   <data name="totalDataGridViewTextBoxColumn.Width" type="System.Int32, mscorlib">
-    <value>400</value>
+    <value>300</value>
+  </data>
+  <metadata name="condition.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="condition.HeaderText" xml:space="preserve">
+    <value>Remarks/condition</value>
+  </data>
+  <data name="condition.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="condition.Width" type="System.Int32, mscorlib">
+    <value>360</value>
   </data>
   <metadata name="commodityBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>188, 17</value>
@@ -1512,115 +1524,7 @@
     <value>3</value>
   </data>
   <data name="tableLayoutPanel4.ColumnCount" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="btn_next_d.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Left</value>
-  </data>
-  <data name="btn_next_d.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
-  </data>
-  <data name="btn_next_d.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="btn_next_d.Location" type="System.Drawing.Point, System.Drawing">
-    <value>425, 2</value>
-  </data>
-  <data name="btn_next_d.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
-  </data>
-  <data name="btn_next_d.Size" type="System.Drawing.Size, System.Drawing">
-    <value>145, 43</value>
-  </data>
-  <data name="btn_next_d.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="btn_next_d.Text" xml:space="preserve">
-    <value>NEXT</value>
-  </data>
-  <data name="&gt;&gt;btn_next_d.Name" xml:space="preserve">
-    <value>btn_next_d</value>
-  </data>
-  <data name="&gt;&gt;btn_next_d.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btn_next_d.Parent" xml:space="preserve">
-    <value>tableLayoutPanel4</value>
-  </data>
-  <data name="&gt;&gt;btn_next_d.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="btn_new_d.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Left</value>
-  </data>
-  <data name="btn_new_d.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
-  </data>
-  <data name="btn_new_d.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="btn_new_d.Location" type="System.Drawing.Point, System.Drawing">
-    <value>274, 2</value>
-  </data>
-  <data name="btn_new_d.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
-  </data>
-  <data name="btn_new_d.Size" type="System.Drawing.Size, System.Drawing">
-    <value>145, 43</value>
-  </data>
-  <data name="btn_new_d.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
-  </data>
-  <data name="btn_new_d.Text" xml:space="preserve">
-    <value>NEW</value>
-  </data>
-  <data name="&gt;&gt;btn_new_d.Name" xml:space="preserve">
-    <value>btn_new_d</value>
-  </data>
-  <data name="&gt;&gt;btn_new_d.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btn_new_d.Parent" xml:space="preserve">
-    <value>tableLayoutPanel4</value>
-  </data>
-  <data name="&gt;&gt;btn_new_d.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="btn_close_d.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Right</value>
-  </data>
-  <data name="btn_close_d.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
-  </data>
-  <data name="btn_close_d.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="btn_close_d.Location" type="System.Drawing.Point, System.Drawing">
-    <value>123, 2</value>
-  </data>
-  <data name="btn_close_d.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
-  </data>
-  <data name="btn_close_d.Size" type="System.Drawing.Size, System.Drawing">
-    <value>145, 43</value>
-  </data>
-  <data name="btn_close_d.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="btn_close_d.Text" xml:space="preserve">
-    <value>BACK</value>
-  </data>
-  <data name="&gt;&gt;btn_close_d.Name" xml:space="preserve">
-    <value>btn_close_d</value>
-  </data>
-  <data name="&gt;&gt;btn_close_d.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btn_close_d.Parent" xml:space="preserve">
-    <value>tableLayoutPanel4</value>
-  </data>
-  <data name="&gt;&gt;btn_close_d.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>6</value>
   </data>
   <data name="btn_add_d.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -1656,7 +1560,7 @@
     <value>tableLayoutPanel4</value>
   </data>
   <data name="&gt;&gt;btn_add_d.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>0</value>
   </data>
   <data name="btn_edit_d.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Right</value>
@@ -1692,6 +1596,111 @@
     <value>tableLayoutPanel4</value>
   </data>
   <data name="&gt;&gt;btn_edit_d.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btn_close_d.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="btn_close_d.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="btn_close_d.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_close_d.Location" type="System.Drawing.Point, System.Drawing">
+    <value>77, 2</value>
+  </data>
+  <data name="btn_close_d.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="btn_close_d.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 43</value>
+  </data>
+  <data name="btn_close_d.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="btn_close_d.Text" xml:space="preserve">
+    <value>BACK</value>
+  </data>
+  <data name="&gt;&gt;btn_close_d.Name" xml:space="preserve">
+    <value>btn_close_d</value>
+  </data>
+  <data name="&gt;&gt;btn_close_d.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_close_d.Parent" xml:space="preserve">
+    <value>tableLayoutPanel4</value>
+  </data>
+  <data name="&gt;&gt;btn_close_d.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btn_new_d.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="btn_new_d.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="btn_new_d.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_new_d.Location" type="System.Drawing.Point, System.Drawing">
+    <value>263, 2</value>
+  </data>
+  <data name="btn_new_d.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="btn_new_d.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 43</value>
+  </data>
+  <data name="btn_new_d.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="btn_new_d.Text" xml:space="preserve">
+    <value>CREAT NEW</value>
+  </data>
+  <data name="&gt;&gt;btn_new_d.Name" xml:space="preserve">
+    <value>btn_new_d</value>
+  </data>
+  <data name="&gt;&gt;btn_new_d.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_new_d.Parent" xml:space="preserve">
+    <value>tableLayoutPanel4</value>
+  </data>
+  <data name="&gt;&gt;btn_new_d.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btn_next_d.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="btn_next_d.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_next_d.Location" type="System.Drawing.Point, System.Drawing">
+    <value>449, 2</value>
+  </data>
+  <data name="btn_next_d.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="btn_next_d.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 43</value>
+  </data>
+  <data name="btn_next_d.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="btn_next_d.Text" xml:space="preserve">
+    <value>HANDING OVER</value>
+  </data>
+  <data name="&gt;&gt;btn_next_d.Name" xml:space="preserve">
+    <value>btn_next_d</value>
+  </data>
+  <data name="&gt;&gt;btn_next_d.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_next_d.Parent" xml:space="preserve">
+    <value>tableLayoutPanel4</value>
+  </data>
+  <data name="&gt;&gt;btn_next_d.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
   <data name="tableLayoutPanel4.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
@@ -1725,7 +1734,7 @@
     <value>4</value>
   </data>
   <data name="tableLayoutPanel4.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="btn_next_d" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btn_new_d" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btn_close_d" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btn_add_d" Row="0" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="btn_edit_d" Row="0" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Absolute,271,Absolute,151,Absolute,235,Percent,100,Absolute,227" /&gt;&lt;Rows Styles="Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="btn_add_d" Row="0" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="btn_edit_d" Row="0" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="btn_close_d" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btn_new_d" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="btn_next_d" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Absolute,260,Absolute,186,Absolute,289,Absolute,82,Percent,100,Absolute,227" /&gt;&lt;Rows Styles="Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="tableLayoutPanel3.ColumnCount" type="System.Int32, mscorlib">
     <value>1</value>
@@ -2094,7 +2103,7 @@
     <value>3</value>
   </data>
   <data name="label8.Text" xml:space="preserve">
-    <value>Distributors</value>
+    <value>Handed over by (CaCH)</value>
   </data>
   <data name="label8.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopRight</value>
@@ -2537,6 +2546,78 @@
   <data name="tableLayoutPanel11.ColumnCount" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
+  <data name="label10.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label10.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="label10.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
+  <data name="label10.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 280</value>
+  </data>
+  <data name="label10.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 5, 0, 0</value>
+  </data>
+  <data name="label10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>219, 73</value>
+  </data>
+  <data name="label10.TabIndex" type="System.Int32, mscorlib">
+    <value>38</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Remarks/Condition</value>
+  </data>
+  <data name="label10.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopRight</value>
+  </data>
+  <data name="&gt;&gt;label10.Name" xml:space="preserve">
+    <value>label10</value>
+  </data>
+  <data name="&gt;&gt;label10.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label10.Parent" xml:space="preserve">
+    <value>tableLayoutPanel11</value>
+  </data>
+  <data name="&gt;&gt;label10.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="conditionField.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="conditionField.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.2000008pt</value>
+  </data>
+  <data name="conditionField.Location" type="System.Drawing.Point, System.Drawing">
+    <value>293, 282</value>
+  </data>
+  <data name="conditionField.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="conditionField.Size" type="System.Drawing.Size, System.Drawing">
+    <value>285, 32</value>
+  </data>
+  <data name="conditionField.TabIndex" type="System.Int32, mscorlib">
+    <value>37</value>
+  </data>
+  <data name="&gt;&gt;conditionField.Name" xml:space="preserve">
+    <value>conditionField</value>
+  </data>
+  <data name="&gt;&gt;conditionField.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;conditionField.Parent" xml:space="preserve">
+    <value>tableLayoutPanel11</value>
+  </data>
+  <data name="&gt;&gt;conditionField.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
   <data name="tableLayoutPanel8.ColumnCount" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
@@ -2547,7 +2628,7 @@
     <value>Microsoft Sans Serif, 13.2000008pt</value>
   </data>
   <data name="textCom.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 38</value>
+    <value>3, 37</value>
   </data>
   <data name="textCom.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 2, 3, 2</value>
@@ -2673,7 +2754,7 @@
     <value>2</value>
   </data>
   <data name="tableLayoutPanel8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>291, 73</value>
+    <value>291, 70</value>
   </data>
   <data name="tableLayoutPanel8.TabIndex" type="System.Int32, mscorlib">
     <value>36</value>
@@ -2688,7 +2769,7 @@
     <value>tableLayoutPanel11</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel8.ZOrder" xml:space="preserve">
-    <value>0</value>
+    <value>2</value>
   </data>
   <data name="tableLayoutPanel8.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="textCom" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="comboCom" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50" /&gt;&lt;Rows Styles="Percent,50,Percent,50" /&gt;&lt;/TableLayoutSettings&gt;</value>
@@ -2700,7 +2781,7 @@
     <value>Microsoft Sans Serif, 13.2000008pt</value>
   </data>
   <data name="totalField.Location" type="System.Drawing.Point, System.Drawing">
-    <value>293, 221</value>
+    <value>293, 212</value>
   </data>
   <data name="totalField.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 2, 3, 2</value>
@@ -2721,7 +2802,7 @@
     <value>tableLayoutPanel11</value>
   </data>
   <data name="&gt;&gt;totalField.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>3</value>
   </data>
   <data name="comName.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -2742,7 +2823,7 @@
     <value>0, 5, 0, 0</value>
   </data>
   <data name="comName.Size" type="System.Drawing.Size, System.Drawing">
-    <value>284, 73</value>
+    <value>284, 70</value>
   </data>
   <data name="comName.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -2763,7 +2844,7 @@
     <value>tableLayoutPanel11</value>
   </data>
   <data name="&gt;&gt;comName.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>4</value>
   </data>
   <data name="unit.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -2778,13 +2859,13 @@
     <value>NoControl</value>
   </data>
   <data name="unit.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 73</value>
+    <value>3, 70</value>
   </data>
   <data name="unit.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 5, 0, 0</value>
   </data>
   <data name="unit.Size" type="System.Drawing.Size, System.Drawing">
-    <value>284, 73</value>
+    <value>284, 70</value>
   </data>
   <data name="unit.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
@@ -2805,7 +2886,7 @@
     <value>tableLayoutPanel11</value>
   </data>
   <data name="&gt;&gt;unit.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>5</value>
   </data>
   <data name="packegeNum.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -2820,13 +2901,13 @@
     <value>NoControl</value>
   </data>
   <data name="packegeNum.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 146</value>
+    <value>3, 140</value>
   </data>
   <data name="packegeNum.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 5, 0, 0</value>
   </data>
   <data name="packegeNum.Size" type="System.Drawing.Size, System.Drawing">
-    <value>284, 73</value>
+    <value>284, 70</value>
   </data>
   <data name="packegeNum.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
@@ -2847,7 +2928,7 @@
     <value>tableLayoutPanel11</value>
   </data>
   <data name="&gt;&gt;packegeNum.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>6</value>
   </data>
   <data name="packFiled.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -2856,7 +2937,7 @@
     <value>Microsoft Sans Serif, 13.2000008pt</value>
   </data>
   <data name="packFiled.Location" type="System.Drawing.Point, System.Drawing">
-    <value>293, 148</value>
+    <value>293, 142</value>
   </data>
   <data name="packFiled.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 2, 3, 2</value>
@@ -2877,7 +2958,7 @@
     <value>tableLayoutPanel11</value>
   </data>
   <data name="&gt;&gt;packFiled.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>7</value>
   </data>
   <data name="total.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -2892,13 +2973,13 @@
     <value>NoControl</value>
   </data>
   <data name="total.Location" type="System.Drawing.Point, System.Drawing">
-    <value>142, 219</value>
+    <value>142, 210</value>
   </data>
   <data name="total.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 5, 0, 0</value>
   </data>
   <data name="total.Size" type="System.Drawing.Size, System.Drawing">
-    <value>145, 74</value>
+    <value>145, 70</value>
   </data>
   <data name="total.TabIndex" type="System.Int32, mscorlib">
     <value>31</value>
@@ -2919,7 +3000,7 @@
     <value>tableLayoutPanel11</value>
   </data>
   <data name="&gt;&gt;total.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>8</value>
   </data>
   <data name="tableLayoutPanel7.ColumnCount" type="System.Int32, mscorlib">
     <value>1</value>
@@ -2931,7 +3012,7 @@
     <value>Microsoft Sans Serif, 13.2000008pt</value>
   </data>
   <data name="textUnit.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 38</value>
+    <value>3, 37</value>
   </data>
   <data name="textUnit.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 2, 3, 2</value>
@@ -2964,18 +3045,24 @@
     <value>Microsoft Sans Serif, 12pt</value>
   </data>
   <data name="comboUnit.Items" xml:space="preserve">
-    <value>Адад</value>
-  </data>
-  <data name="comboUnit.Items1" xml:space="preserve">
     <value>Рулон</value>
   </data>
-  <data name="comboUnit.Items2" xml:space="preserve">
-    <value>Пачка</value>
+  <data name="comboUnit.Items1" xml:space="preserve">
+    <value>Баста</value>
   </data>
-  <data name="comboUnit.Items3" xml:space="preserve">
+  <data name="comboUnit.Items2" xml:space="preserve">
     <value>Дона</value>
   </data>
+  <data name="comboUnit.Items3" xml:space="preserve">
+    <value>Килограмм</value>
+  </data>
   <data name="comboUnit.Items4" xml:space="preserve">
+    <value>Литр</value>
+  </data>
+  <data name="comboUnit.Items5" xml:space="preserve">
+    <value>Метр</value>
+  </data>
+  <data name="comboUnit.Items6" xml:space="preserve">
     <value>Дигар</value>
   </data>
   <data name="comboUnit.Location" type="System.Drawing.Point, System.Drawing">
@@ -3006,7 +3093,7 @@
     <value>Fill</value>
   </data>
   <data name="tableLayoutPanel7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>290, 73</value>
+    <value>290, 70</value>
   </data>
   <data name="tableLayoutPanel7.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
@@ -3015,7 +3102,7 @@
     <value>2</value>
   </data>
   <data name="tableLayoutPanel7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>291, 73</value>
+    <value>291, 70</value>
   </data>
   <data name="tableLayoutPanel7.TabIndex" type="System.Int32, mscorlib">
     <value>35</value>
@@ -3030,7 +3117,7 @@
     <value>tableLayoutPanel11</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel7.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>9</value>
   </data>
   <data name="tableLayoutPanel7.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="textUnit" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="comboUnit" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50" /&gt;&lt;Rows Styles="Percent,50,Percent,50" /&gt;&lt;/TableLayoutSettings&gt;</value>
@@ -3042,16 +3129,16 @@
     <value>Microsoft Sans Serif, 15pt</value>
   </data>
   <data name="tableLayoutPanel11.Location" type="System.Drawing.Point, System.Drawing">
-    <value>454, 80</value>
+    <value>454, 50</value>
   </data>
   <data name="tableLayoutPanel11.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>16, 80, 20, 50</value>
+    <value>16, 50, 20, 20</value>
   </data>
   <data name="tableLayoutPanel11.RowCount" type="System.Int32, mscorlib">
-    <value>4</value>
+    <value>5</value>
   </data>
   <data name="tableLayoutPanel11.Size" type="System.Drawing.Size, System.Drawing">
-    <value>581, 293</value>
+    <value>581, 353</value>
   </data>
   <data name="tableLayoutPanel11.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -3069,7 +3156,7 @@
     <value>1</value>
   </data>
   <data name="tableLayoutPanel11.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="tableLayoutPanel8" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="totalField" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="comName" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="unit" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="packegeNum" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="packFiled" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="total" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel7" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,35,Percent,35" /&gt;&lt;Rows Styles="Percent,25,Percent,25,Percent,25,Percent,25" /&gt;&lt;/TableLayoutSettings&gt;</value>
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="label10" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="conditionField" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel8" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="totalField" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="comName" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="unit" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="packegeNum" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="packFiled" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="total" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel7" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50,Percent,50" /&gt;&lt;Rows Styles="Percent,20,Percent,20,Percent,20,Percent,20,Percent,20" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="label3.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -3598,6 +3685,12 @@
     <value>totalDataGridViewTextBoxColumn</value>
   </data>
   <data name="&gt;&gt;totalDataGridViewTextBoxColumn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;condition.Name" xml:space="preserve">
+    <value>condition</value>
+  </data>
+  <data name="&gt;&gt;condition.Type" xml:space="preserve">
     <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;commodityBindingSource.Name" xml:space="preserve">

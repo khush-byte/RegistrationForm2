@@ -52,15 +52,16 @@
             this.unitDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.packageSumDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.totalDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.condition = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.commodityBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.databaseDataSet = new RegistrationForm.DatabaseDataSet();
             this.label4 = new System.Windows.Forms.Label();
             this.tableLayoutPanel4 = new System.Windows.Forms.TableLayoutPanel();
-            this.btn_next_d = new System.Windows.Forms.Button();
-            this.btn_new_d = new System.Windows.Forms.Button();
-            this.btn_close_d = new System.Windows.Forms.Button();
             this.btn_add_d = new System.Windows.Forms.Button();
             this.btn_edit_d = new System.Windows.Forms.Button();
+            this.btn_close_d = new System.Windows.Forms.Button();
+            this.btn_new_d = new System.Windows.Forms.Button();
+            this.btn_next_d = new System.Windows.Forms.Button();
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
             this.label1 = new System.Windows.Forms.Label();
             this.tableLayoutPanel5 = new System.Windows.Forms.TableLayoutPanel();
@@ -86,6 +87,8 @@
             this.tableLayoutPanel20 = new System.Windows.Forms.TableLayoutPanel();
             this.comboProject_d = new System.Windows.Forms.ComboBox();
             this.tableLayoutPanel11 = new System.Windows.Forms.TableLayoutPanel();
+            this.label10 = new System.Windows.Forms.Label();
+            this.conditionField = new System.Windows.Forms.TextBox();
             this.tableLayoutPanel8 = new System.Windows.Forms.TableLayoutPanel();
             this.textCom = new System.Windows.Forms.TextBox();
             this.comboCom = new System.Windows.Forms.ComboBox();
@@ -213,7 +216,8 @@
             this.nameDataGridViewTextBoxColumn,
             this.unitDataGridViewTextBoxColumn,
             this.packageSumDataGridViewTextBoxColumn,
-            this.totalDataGridViewTextBoxColumn});
+            this.totalDataGridViewTextBoxColumn,
+            this.condition});
             this.commodityDataGridView.DataSource = this.commodityBindingSource;
             dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle7.BackColor = System.Drawing.Color.White;
@@ -280,6 +284,13 @@
             this.totalDataGridViewTextBoxColumn.Name = "totalDataGridViewTextBoxColumn";
             this.totalDataGridViewTextBoxColumn.ReadOnly = true;
             // 
+            // condition
+            // 
+            this.condition.DataPropertyName = "condition";
+            resources.ApplyResources(this.condition, "condition");
+            this.condition.Name = "condition";
+            this.condition.ReadOnly = true;
+            // 
             // commodityBindingSource
             // 
             this.commodityBindingSource.DataMember = "Commodity";
@@ -300,39 +311,12 @@
             // tableLayoutPanel4
             // 
             resources.ApplyResources(this.tableLayoutPanel4, "tableLayoutPanel4");
-            this.tableLayoutPanel4.Controls.Add(this.btn_next_d, 0, 0);
-            this.tableLayoutPanel4.Controls.Add(this.btn_new_d, 0, 0);
+            this.tableLayoutPanel4.Controls.Add(this.btn_add_d, 5, 0);
+            this.tableLayoutPanel4.Controls.Add(this.btn_edit_d, 4, 0);
             this.tableLayoutPanel4.Controls.Add(this.btn_close_d, 0, 0);
-            this.tableLayoutPanel4.Controls.Add(this.btn_add_d, 4, 0);
-            this.tableLayoutPanel4.Controls.Add(this.btn_edit_d, 3, 0);
+            this.tableLayoutPanel4.Controls.Add(this.btn_new_d, 1, 0);
+            this.tableLayoutPanel4.Controls.Add(this.btn_next_d, 2, 0);
             this.tableLayoutPanel4.Name = "tableLayoutPanel4";
-            // 
-            // btn_next_d
-            // 
-            this.btn_next_d.BackColor = System.Drawing.Color.AliceBlue;
-            resources.ApplyResources(this.btn_next_d, "btn_next_d");
-            this.btn_next_d.Name = "btn_next_d";
-            this.btn_next_d.TabStop = false;
-            this.btn_next_d.UseVisualStyleBackColor = false;
-            this.btn_next_d.Click += new System.EventHandler(this.btn_next_d_Click);
-            // 
-            // btn_new_d
-            // 
-            this.btn_new_d.BackColor = System.Drawing.Color.AliceBlue;
-            resources.ApplyResources(this.btn_new_d, "btn_new_d");
-            this.btn_new_d.Name = "btn_new_d";
-            this.btn_new_d.TabStop = false;
-            this.btn_new_d.UseVisualStyleBackColor = false;
-            this.btn_new_d.Click += new System.EventHandler(this.btn_new_d_Click);
-            // 
-            // btn_close_d
-            // 
-            this.btn_close_d.BackColor = System.Drawing.Color.AliceBlue;
-            resources.ApplyResources(this.btn_close_d, "btn_close_d");
-            this.btn_close_d.Name = "btn_close_d";
-            this.btn_close_d.TabStop = false;
-            this.btn_close_d.UseVisualStyleBackColor = false;
-            this.btn_close_d.Click += new System.EventHandler(this.btn_close_d_Click);
             // 
             // btn_add_d
             // 
@@ -351,6 +335,33 @@
             this.btn_edit_d.TabStop = false;
             this.btn_edit_d.UseVisualStyleBackColor = false;
             this.btn_edit_d.Click += new System.EventHandler(this.btn_edit_d_Click);
+            // 
+            // btn_close_d
+            // 
+            this.btn_close_d.BackColor = System.Drawing.Color.AliceBlue;
+            resources.ApplyResources(this.btn_close_d, "btn_close_d");
+            this.btn_close_d.Name = "btn_close_d";
+            this.btn_close_d.TabStop = false;
+            this.btn_close_d.UseVisualStyleBackColor = false;
+            this.btn_close_d.Click += new System.EventHandler(this.btn_close_d_Click);
+            // 
+            // btn_new_d
+            // 
+            this.btn_new_d.BackColor = System.Drawing.Color.AliceBlue;
+            resources.ApplyResources(this.btn_new_d, "btn_new_d");
+            this.btn_new_d.Name = "btn_new_d";
+            this.btn_new_d.TabStop = false;
+            this.btn_new_d.UseVisualStyleBackColor = false;
+            this.btn_new_d.Click += new System.EventHandler(this.btn_new_d_Click);
+            // 
+            // btn_next_d
+            // 
+            this.btn_next_d.BackColor = System.Drawing.Color.AliceBlue;
+            resources.ApplyResources(this.btn_next_d, "btn_next_d");
+            this.btn_next_d.Name = "btn_next_d";
+            this.btn_next_d.TabStop = false;
+            this.btn_next_d.UseVisualStyleBackColor = false;
+            this.btn_next_d.Click += new System.EventHandler(this.btn_next_d_Click);
             // 
             // tableLayoutPanel3
             // 
@@ -505,6 +516,7 @@
             this.comboLocation2_d.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboLocation2_d.FormattingEnabled = true;
             this.comboLocation2_d.Name = "comboLocation2_d";
+            this.comboLocation2_d.SelectedIndexChanged += new System.EventHandler(this.comboLocation2_d_SelectedIndexChanged);
             // 
             // tableLayoutPanel20
             // 
@@ -526,6 +538,8 @@
             // tableLayoutPanel11
             // 
             resources.ApplyResources(this.tableLayoutPanel11, "tableLayoutPanel11");
+            this.tableLayoutPanel11.Controls.Add(this.label10, 0, 4);
+            this.tableLayoutPanel11.Controls.Add(this.conditionField, 0, 4);
             this.tableLayoutPanel11.Controls.Add(this.tableLayoutPanel8, 1, 0);
             this.tableLayoutPanel11.Controls.Add(this.totalField, 1, 3);
             this.tableLayoutPanel11.Controls.Add(this.comName, 0, 0);
@@ -535,6 +549,17 @@
             this.tableLayoutPanel11.Controls.Add(this.total, 0, 3);
             this.tableLayoutPanel11.Controls.Add(this.tableLayoutPanel7, 1, 1);
             this.tableLayoutPanel11.Name = "tableLayoutPanel11";
+            // 
+            // label10
+            // 
+            resources.ApplyResources(this.label10, "label10");
+            this.label10.Name = "label10";
+            // 
+            // conditionField
+            // 
+            this.conditionField.BackColor = System.Drawing.Color.Ivory;
+            resources.ApplyResources(this.conditionField, "conditionField");
+            this.conditionField.Name = "conditionField";
             // 
             // tableLayoutPanel8
             // 
@@ -636,7 +661,9 @@
             resources.GetString("comboUnit.Items1"),
             resources.GetString("comboUnit.Items2"),
             resources.GetString("comboUnit.Items3"),
-            resources.GetString("comboUnit.Items4")});
+            resources.GetString("comboUnit.Items4"),
+            resources.GetString("comboUnit.Items5"),
+            resources.GetString("comboUnit.Items6")});
             this.comboUnit.Name = "comboUnit";
             this.comboUnit.SelectedIndexChanged += new System.EventHandler(this.comboUnit_SelectedIndexChanged);
             // 
@@ -798,11 +825,14 @@
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel7;
         private System.Windows.Forms.TextBox textUnit;
         private System.Windows.Forms.ComboBox comboCom;
+        private System.Windows.Forms.Button btn_next_d;
         private System.Windows.Forms.DataGridViewTextBoxColumn Id;
         private System.Windows.Forms.DataGridViewTextBoxColumn nameDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn unitDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn packageSumDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn totalDataGridViewTextBoxColumn;
-        private System.Windows.Forms.Button btn_next_d;
+        private System.Windows.Forms.DataGridViewTextBoxColumn condition;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.TextBox conditionField;
     }
 }
