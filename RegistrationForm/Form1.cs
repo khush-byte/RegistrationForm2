@@ -663,6 +663,14 @@ namespace RegistrationForm
             }
         }
 
+        private void buttonBack_Click(object sender, EventArgs e)
+        {
+            Main form = new Main();
+            this.Hide();
+            form.ShowDialog();
+            this.Close();
+        }
+
         private void buttonUpdate_Click(object sender, EventArgs e)
         {
             if (CheckConnection())

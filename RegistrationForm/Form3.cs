@@ -74,6 +74,9 @@ namespace RegistrationForm
 
         private void btn_close_d_Click(object sender, EventArgs e)
         {
+            Main form = new Main();
+            this.Hide();
+            form.ShowDialog();
             this.Close();
         }
 
@@ -137,6 +140,14 @@ namespace RegistrationForm
                 MessageBox.Show(msgNumber, "Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 totalField.Text = totalField.Text.Remove(totalField.Text.Length - 1);
             }
+        }
+
+        private void btn_next_d_Click(object sender, EventArgs e)
+        {
+            Main form = new Main();
+            this.Hide();
+            form.ShowDialog();
+            this.Close();
         }
 
         private void btn_edit_d_Click(object sender, EventArgs e)

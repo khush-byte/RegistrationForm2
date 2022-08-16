@@ -118,42 +118,24 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="buttonUpdate.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="buttonUpdate.Location" type="System.Drawing.Point, System.Drawing">
-    <value>44, 2</value>
-  </data>
-  <data name="buttonUpdate.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
-  </data>
-  <data name="buttonUpdate.Size" type="System.Drawing.Size, System.Drawing">
-    <value>144, 43</value>
-  </data>
-  <data name="buttonUpdate.Text" xml:space="preserve">
-    <value>АЗНАВСОЗӢ</value>
-  </data>
   <data name="buttonSubmit.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="buttonSubmit.Location" type="System.Drawing.Point, System.Drawing">
-    <value>194, 2</value>
+    <value>343, 2</value>
   </data>
   <data name="buttonSubmit.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 2, 3, 2</value>
   </data>
   <data name="buttonSubmit.Size" type="System.Drawing.Size, System.Drawing">
-    <value>143, 43</value>
+    <value>142, 43</value>
   </data>
   <data name="buttonSubmit.Text" xml:space="preserve">
     <value>ПЕШНИҲОД</value>
   </data>
-  <data name="buttonPrint.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
   <data name="buttonPrint.Location" type="System.Drawing.Point, System.Drawing">
-    <value>343, 2</value>
+    <value>491, 2</value>
   </data>
   <data name="buttonPrint.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 2, 3, 2</value>
@@ -163,9 +145,6 @@
   </data>
   <data name="buttonPrint.Text" xml:space="preserve">
     <value>ЧОП КАРДАН</value>
-  </data>
-  <data name="btn_add.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
   </data>
   <data name="btn_add.Location" type="System.Drawing.Point, System.Drawing">
     <value>1140, 2</value>
@@ -179,9 +158,6 @@
   <data name="btn_add.Text" xml:space="preserve">
     <value>САБТ</value>
   </data>
-  <data name="buttonEdit.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
   <data name="buttonEdit.Location" type="System.Drawing.Point, System.Drawing">
     <value>990, 2</value>
   </data>
@@ -193,6 +169,24 @@
   </data>
   <data name="buttonEdit.Text" xml:space="preserve">
     <value>ТАҲРИР</value>
+  </data>
+  <data name="buttonUpdate.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonUpdate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>194, 2</value>
+  </data>
+  <data name="buttonUpdate.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="buttonUpdate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>143, 43</value>
+  </data>
+  <data name="buttonUpdate.Text" xml:space="preserve">
+    <value>АЗНАВСОЗӢ</value>
+  </data>
+  <data name="buttonBack.Text" xml:space="preserve">
+    <value>БОЗГАШТ</value>
   </data>
   <data name="tableLayoutPanel4.Size" type="System.Drawing.Size, System.Drawing">
     <value>1364, 47</value>
@@ -1086,7 +1080,7 @@
     <value>NoControl</value>
   </data>
   <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>609, 2</value>
+    <value>631, 2</value>
   </data>
   <data name="pictureBox1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 2, 13, 2</value>
@@ -1392,7 +1386,7 @@
     <value>NoControl</value>
   </data>
   <data name="pictureBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>810, 2</value>
+    <value>832, 2</value>
   </data>
   <data name="pictureBox2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 2, 3, 2</value>
@@ -1401,16 +1395,19 @@
     <value>203, 42</value>
   </data>
   <data name="date_field.Location" type="System.Drawing.Point, System.Drawing">
-    <value>337, 11</value>
+    <value>347, 11</value>
   </data>
   <data name="date_field.Size" type="System.Drawing.Size, System.Drawing">
-    <value>145, 27</value>
+    <value>144, 27</value>
   </data>
   <data name="leble001.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="leble001.Location" type="System.Drawing.Point, System.Drawing">
-    <value>240, 0</value>
+    <value>250, 1</value>
+  </data>
+  <data name="leble001.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 1, 0, 0</value>
   </data>
   <data name="leble001.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>29, 2, 0, 0</value>
@@ -1422,7 +1419,7 @@
     <value>Сана:</value>
   </data>
   <data name="tableLayoutPanel12.Size" type="System.Drawing.Size, System.Drawing">
-    <value>482, 46</value>
+    <value>495, 46</value>
   </data>
   <data name="tableLayoutPanel2.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 2</value>
@@ -1432,6 +1429,21 @@
   </data>
   <data name="tableLayoutPanel2.Size" type="System.Drawing.Size, System.Drawing">
     <value>1364, 46</value>
+  </data>
+  <data name="tableLayoutPanel3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1370, 460</value>
+  </data>
+  <data name="label32.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label32.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1364, 4</value>
+  </data>
+  <data name="tableLayoutPanel1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="tableLayoutPanel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1370, 749</value>
   </data>
   <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1444,6 +1456,18 @@
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
     <value>1370, 1</value>
+  </data>
+  <data name="tableLayoutPanel5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1370, 423</value>
+  </data>
+  <data name="tableLayoutPanel13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 10</value>
+  </data>
+  <data name="tableLayoutPanel13.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>13, 10, 20, 14</value>
+  </data>
+  <data name="tableLayoutPanel13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>446, 399</value>
   </data>
   <data name="label5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1463,6 +1487,12 @@
   <data name="label6.Text" xml:space="preserve">
     <value>Шаҳр/Ноҳия</value>
   </data>
+  <data name="tableLayoutPanel18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 66</value>
+  </data>
+  <data name="tableLayoutPanel18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 66</value>
+  </data>
   <data name="comboLocation.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 2</value>
   </data>
@@ -1481,12 +1511,6 @@
   <data name="textLocation.Size" type="System.Drawing.Size, System.Drawing">
     <value>204, 30</value>
   </data>
-  <data name="tableLayoutPanel18.Location" type="System.Drawing.Point, System.Drawing">
-    <value>236, 66</value>
-  </data>
-  <data name="tableLayoutPanel18.Size" type="System.Drawing.Size, System.Drawing">
-    <value>210, 66</value>
-  </data>
   <data name="label9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -1495,6 +1519,12 @@
   </data>
   <data name="label9.Text" xml:space="preserve">
     <value>Тренер</value>
+  </data>
+  <data name="tableLayoutPanel16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 330</value>
+  </data>
+  <data name="tableLayoutPanel16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 69</value>
   </data>
   <data name="comboTrainer.Items" xml:space="preserve">
     <value>Фарухиддин Набиев</value>
@@ -1520,12 +1550,6 @@
   <data name="textTrainer.Size" type="System.Drawing.Size, System.Drawing">
     <value>204, 30</value>
   </data>
-  <data name="tableLayoutPanel16.Location" type="System.Drawing.Point, System.Drawing">
-    <value>236, 330</value>
-  </data>
-  <data name="tableLayoutPanel16.Size" type="System.Drawing.Size, System.Drawing">
-    <value>210, 69</value>
-  </data>
   <data name="label8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -1534,6 +1558,12 @@
   </data>
   <data name="label8.Text" xml:space="preserve">
     <value>Мавзӯи чорабинӣ</value>
+  </data>
+  <data name="tableLayoutPanel15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 264</value>
+  </data>
+  <data name="tableLayoutPanel15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 66</value>
   </data>
   <data name="comboTopic.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 2</value>
@@ -1553,10 +1583,10 @@
   <data name="textTopic.Size" type="System.Drawing.Size, System.Drawing">
     <value>204, 30</value>
   </data>
-  <data name="tableLayoutPanel15.Location" type="System.Drawing.Point, System.Drawing">
-    <value>236, 264</value>
+  <data name="tableLayoutPanel14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 198</value>
   </data>
-  <data name="tableLayoutPanel15.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="tableLayoutPanel14.Size" type="System.Drawing.Size, System.Drawing">
     <value>210, 66</value>
   </data>
   <data name="comboCategory.Location" type="System.Drawing.Point, System.Drawing">
@@ -1577,12 +1607,6 @@
   <data name="textCategory.Size" type="System.Drawing.Size, System.Drawing">
     <value>204, 30</value>
   </data>
-  <data name="tableLayoutPanel14.Location" type="System.Drawing.Point, System.Drawing">
-    <value>236, 198</value>
-  </data>
-  <data name="tableLayoutPanel14.Size" type="System.Drawing.Size, System.Drawing">
-    <value>210, 66</value>
-  </data>
   <data name="label7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -1600,6 +1624,12 @@
   </data>
   <data name="label31.Text" xml:space="preserve">
     <value>Ҷамоат</value>
+  </data>
+  <data name="tableLayoutPanel6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 132</value>
+  </data>
+  <data name="tableLayoutPanel6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 66</value>
   </data>
   <data name="textLocation2.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 35</value>
@@ -1619,10 +1649,10 @@
   <data name="comboLocation2.Size" type="System.Drawing.Size, System.Drawing">
     <value>204, 30</value>
   </data>
-  <data name="tableLayoutPanel6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>236, 132</value>
+  <data name="tableLayoutPanel20.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 0</value>
   </data>
-  <data name="tableLayoutPanel6.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="tableLayoutPanel20.Size" type="System.Drawing.Size, System.Drawing">
     <value>210, 66</value>
   </data>
   <data name="comboProject.Location" type="System.Drawing.Point, System.Drawing">
@@ -1634,20 +1664,14 @@
   <data name="comboProject.Size" type="System.Drawing.Size, System.Drawing">
     <value>204, 30</value>
   </data>
-  <data name="tableLayoutPanel20.Location" type="System.Drawing.Point, System.Drawing">
-    <value>236, 0</value>
+  <data name="tableLayoutPanel11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>924, 10</value>
   </data>
-  <data name="tableLayoutPanel20.Size" type="System.Drawing.Size, System.Drawing">
-    <value>210, 66</value>
+  <data name="tableLayoutPanel11.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>16, 10, 20, 34</value>
   </data>
-  <data name="tableLayoutPanel13.Location" type="System.Drawing.Point, System.Drawing">
-    <value>13, 10</value>
-  </data>
-  <data name="tableLayoutPanel13.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>13, 10, 20, 14</value>
-  </data>
-  <data name="tableLayoutPanel13.Size" type="System.Drawing.Size, System.Drawing">
-    <value>446, 399</value>
+  <data name="tableLayoutPanel11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>381, 379</value>
   </data>
   <data name="label23.Size" type="System.Drawing.Size, System.Drawing">
     <value>161, 50</value>
@@ -1820,14 +1844,8 @@
   <data name="checkStationary.Text" xml:space="preserve">
     <value> Нест</value>
   </data>
-  <data name="tableLayoutPanel11.Location" type="System.Drawing.Point, System.Drawing">
-    <value>924, 10</value>
-  </data>
-  <data name="tableLayoutPanel11.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>16, 10, 20, 34</value>
-  </data>
-  <data name="tableLayoutPanel11.Size" type="System.Drawing.Size, System.Drawing">
-    <value>381, 379</value>
+  <data name="tableLayoutPanel8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>902, 0</value>
   </data>
   <data name="label10.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1840,6 +1858,15 @@
   </data>
   <data name="label10.Size" type="System.Drawing.Size, System.Drawing">
     <value>1, 419</value>
+  </data>
+  <data name="tableLayoutPanel9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 50</value>
+  </data>
+  <data name="tableLayoutPanel9.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>13, 50, 13, 7</value>
+  </data>
+  <data name="tableLayoutPanel9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1, 366</value>
   </data>
   <data name="label11.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1889,23 +1916,11 @@
   <data name="textBox5.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 2, 3, 2</value>
   </data>
-  <data name="tableLayoutPanel9.Location" type="System.Drawing.Point, System.Drawing">
-    <value>13, 50</value>
-  </data>
-  <data name="tableLayoutPanel9.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>13, 50, 13, 7</value>
-  </data>
-  <data name="tableLayoutPanel9.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1, 366</value>
-  </data>
   <data name="tableLayoutPanel10.Location" type="System.Drawing.Point, System.Drawing">
     <value>13, 10</value>
   </data>
   <data name="tableLayoutPanel10.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>11, 10, 11, 10</value>
-  </data>
-  <data name="tableLayoutPanel8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>902, 0</value>
   </data>
   <data name="label3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1918,6 +1933,12 @@
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
     <value>2, 419</value>
+  </data>
+  <data name="tableLayoutPanel7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>501, 10</value>
+  </data>
+  <data name="tableLayoutPanel7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>381, 402</value>
   </data>
   <data name="textParName2.Location" type="System.Drawing.Point, System.Drawing">
     <value>170, 94</value>
@@ -2045,6 +2066,12 @@
   <data name="comboGender.Size" type="System.Drawing.Size, System.Drawing">
     <value>208, 33</value>
   </data>
+  <data name="tableLayoutPanel17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>167, 322</value>
+  </data>
+  <data name="tableLayoutPanel17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>214, 80</value>
+  </data>
   <data name="comboType.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 2</value>
   </data>
@@ -2063,12 +2090,6 @@
   <data name="textOther.Size" type="System.Drawing.Size, System.Drawing">
     <value>208, 31</value>
   </data>
-  <data name="tableLayoutPanel17.Location" type="System.Drawing.Point, System.Drawing">
-    <value>167, 322</value>
-  </data>
-  <data name="tableLayoutPanel17.Size" type="System.Drawing.Size, System.Drawing">
-    <value>214, 80</value>
-  </data>
   <data name="textPhone.Location" type="System.Drawing.Point, System.Drawing">
     <value>170, 278</value>
   </data>
@@ -2078,14 +2099,8 @@
   <data name="textPhone.Size" type="System.Drawing.Size, System.Drawing">
     <value>208, 31</value>
   </data>
-  <data name="tableLayoutPanel7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>501, 10</value>
-  </data>
-  <data name="tableLayoutPanel7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>381, 402</value>
-  </data>
-  <data name="tableLayoutPanel5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1370, 423</value>
+  <data name="tableLayoutPanel19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1370, 28</value>
   </data>
   <data name="label33.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -2122,24 +2137,6 @@
   </data>
   <data name="label35.Text" xml:space="preserve">
     <value>Маълумот дар бораи иштирокчиён</value>
-  </data>
-  <data name="tableLayoutPanel19.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1370, 28</value>
-  </data>
-  <data name="tableLayoutPanel3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1370, 460</value>
-  </data>
-  <data name="label32.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label32.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1364, 4</value>
-  </data>
-  <data name="tableLayoutPanel1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
-  </data>
-  <data name="tableLayoutPanel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1370, 749</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
     <value>1370, 749</value>

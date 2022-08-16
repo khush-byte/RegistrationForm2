@@ -117,17 +117,33 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="e_comboJamoat.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 33</value>
+  </data>
+  <data name="e_comboDistrict.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 33</value>
+  </data>
   <data name="label24.Text" xml:space="preserve">
     <value>Ноҳия</value>
   </data>
   <data name="label22.Text" xml:space="preserve">
     <value>Ҷамоат</value>
   </data>
+  <data name="e_textAccommodation.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 31</value>
+  </data>
   <data name="label23.Text" xml:space="preserve">
     <value>Хароҷоти зист</value>
   </data>
   <data name="label29.Text" xml:space="preserve">
     <value>Хароҷоти роҳ</value>
+  </data>
+  <data name="e_textTransportCost.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 31</value>
+  </data>
+  <data name="e_checkStationary.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 31</value>
   </data>
   <data name="e_checkStationary.Text" xml:space="preserve">
     <value> Нест</value>
@@ -138,17 +154,29 @@
   <data name="label27.Text" xml:space="preserve">
     <value>Хуроки нисфирузӣ</value>
   </data>
+  <data name="e_checkLunch.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 31</value>
+  </data>
   <data name="e_checkLunch.Text" xml:space="preserve">
     <value> Нест</value>
   </data>
   <data name="label26.Text" xml:space="preserve">
     <value>Кофе брейк</value>
   </data>
+  <data name="e_checkCoffee.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 31</value>
+  </data>
   <data name="e_checkCoffee.Text" xml:space="preserve">
     <value> Нест</value>
   </data>
   <data name="e_labelVillage.Text" xml:space="preserve">
     <value>Деҳа</value>
+  </data>
+  <data name="e_textVillage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 31</value>
+  </data>
+  <data name="e_textParName2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 31</value>
   </data>
   <data name="labelParticipant.Text" xml:space="preserve">
     <value>Рақами телефон</value>
@@ -174,11 +202,38 @@
   <data name="label21.Text" xml:space="preserve">
     <value>Сину сол</value>
   </data>
+  <data name="e_textQR.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 31</value>
+  </data>
+  <data name="e_textParName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 31</value>
+  </data>
+  <data name="e_textAge.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 31</value>
+  </data>
+  <data name="e_textPassport.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 31</value>
+  </data>
+  <data name="e_comboGender.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 33</value>
+  </data>
+  <data name="e_comboType.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 33</value>
+  </data>
+  <data name="e_textOther.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 31</value>
+  </data>
+  <data name="e_textPhone.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 31</value>
+  </data>
   <data name="buttonPrint.Text" xml:space="preserve">
     <value>ЁФТАН</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
     <value>Рақами сатр</value>
+  </data>
+  <data name="idField.Size" type="System.Drawing.Size, System.Drawing">
+    <value>152, 34</value>
   </data>
   <data name="applyBtn.Text" xml:space="preserve">
     <value>Тасдиқи тағирот</value>

@@ -149,8 +149,17 @@
   <data name="SecondName.Width" type="System.Int32, mscorlib">
     <value>190</value>
   </data>
+  <data name="AddressJumoat.Width" type="System.Int32, mscorlib">
+    <value>160</value>
+  </data>
+  <data name="&gt;&gt;label31.Name" xml:space="preserve">
+    <value>label31</value>
+  </data>
+  <data name="label18.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
   <data name="tableLayoutPanel2.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="pictureBox1" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="pictureBox2" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel12" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,47,40608,Percent,31,98925,Percent,20,60932,Absolute,109,Absolute,238" /&gt;&lt;Rows Styles="Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="pictureBox1" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="pictureBox2" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel12" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,47,40608,Percent,31,98925,Percent,20,60932,Absolute,69,Absolute,249" /&gt;&lt;Rows Styles="Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="tableLayoutPanel19.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -159,7 +168,7 @@
     <value>17</value>
   </data>
   <data name="&gt;&gt;buttonEdit.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>3</value>
   </data>
   <data name="&gt;&gt;label21.Parent" xml:space="preserve">
     <value>tableLayoutPanel7</value>
@@ -189,8 +198,8 @@
   <data name="tableLayoutPanel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
-  <data name="&gt;&gt;tableLayoutPanel19.ZOrder" xml:space="preserve">
-    <value>2</value>
+  <data name="tableLayoutPanel8.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
   </data>
   <data name="label28.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -198,26 +207,20 @@
   <data name="tableLayoutPanel18.Location" type="System.Drawing.Point, System.Drawing">
     <value>237, 66</value>
   </data>
-  <data name="&gt;&gt;label21.ZOrder" xml:space="preserve">
-    <value>8</value>
+  <data name="&gt;&gt;comboType.Name" xml:space="preserve">
+    <value>comboType</value>
   </data>
-  <data name="date_field.Size" type="System.Drawing.Size, System.Drawing">
-    <value>149, 27</value>
-  </data>
-  <data name="tableLayoutPanel3.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
+  <data name="buttonBack.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="tableLayoutPanel3.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="label1" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel5" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel19" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,100" /&gt;&lt;Rows Styles="Absolute,32,Absolute,5,Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
-  </data>
-  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
-    <value>tableLayoutPanel9</value>
   </data>
   <data name="tableLayoutPanel9.Location" type="System.Drawing.Point, System.Drawing">
     <value>14, 50</value>
   </data>
   <data name="pictureBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>837, 3</value>
+    <value>812, 3</value>
   </data>
   <data name="label11.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopRight</value>
@@ -261,11 +264,8 @@
   <data name="checkStationary.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="comboProject.Size" type="System.Drawing.Size, System.Drawing">
-    <value>206, 30</value>
-  </data>
-  <data name="textVillage.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12.5pt</value>
+  <data name="dataGridViewTextBoxColumn7.HeaderText" xml:space="preserve">
+    <value>Participant Type</value>
   </data>
   <data name="checkSupper.Size" type="System.Drawing.Size, System.Drawing">
     <value>73, 31</value>
@@ -276,14 +276,20 @@
   <data name="&gt;&gt;comboGender.Type" xml:space="preserve">
     <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="label31.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 5, 0, 0</value>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn16.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn16</value>
+  </data>
+  <data name="buttonPrint.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="AddressVillage.Width" type="System.Int32, mscorlib">
     <value>160</value>
   </data>
   <data name="&gt;&gt;comboLocation.ZOrder" xml:space="preserve">
     <value>0</value>
+  </data>
+  <data name="comboDistrict.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 33</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel1.ZOrder" xml:space="preserve">
     <value>0</value>
@@ -300,26 +306,20 @@
   <data name="tableLayoutPanel20.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
   </data>
+  <data name="label12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 73</value>
+  </data>
   <data name="tableLayoutPanel15.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="comboTopic" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="textTopic" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50" /&gt;&lt;Rows Styles="Percent,50,Percent,50,Absolute,20,Absolute,20" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
-  <data name="comboTopic.Items1" xml:space="preserve">
-    <value>Технологияи парвариши картошка</value>
-  </data>
   <data name="tableLayoutPanel7.ColumnCount" type="System.Int32, mscorlib">
     <value>2</value>
-  </data>
-  <data name="label11.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 0</value>
-  </data>
-  <data name="&gt;&gt;checkStationary.Parent" xml:space="preserve">
-    <value>tableLayoutPanel11</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel18.Parent" xml:space="preserve">
     <value>tableLayoutPanel13</value>
   </data>
   <data name="buttonUpdate.Size" type="System.Drawing.Size, System.Drawing">
-    <value>144, 41</value>
+    <value>143, 41</value>
   </data>
   <data name="dataGridViewTextBoxColumn17.Width" type="System.Int32, mscorlib">
     <value>300</value>
@@ -327,8 +327,8 @@
   <data name="label21.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
   </data>
-  <data name="&gt;&gt;textBox3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn11.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewCheckBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="tableLayoutPanel7.RowCount" type="System.Int32, mscorlib">
     <value>8</value>
@@ -342,14 +342,17 @@
   <data name="label32.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
   </data>
+  <data name="textBox3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
   <data name="label21.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopRight</value>
   </data>
-  <data name="dataGridViewTextBoxColumn17.MinimumWidth" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
   <data name="tableLayoutPanel16.RowCount" type="System.Int32, mscorlib">
     <value>2</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel13.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <data name="tableLayoutPanel7.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -360,17 +363,17 @@
   <data name="label9.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
+  <data name="label10.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
   <data name="label14.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 219</value>
   </data>
   <data name="&gt;&gt;comboTopic.Name" xml:space="preserve">
     <value>comboTopic</value>
   </data>
-  <data name="label28.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 5, 0, 0</value>
-  </data>
-  <data name="label20.Size" type="System.Drawing.Size, System.Drawing">
-    <value>163, 46</value>
+  <data name="&gt;&gt;checkStationary.Parent" xml:space="preserve">
+    <value>tableLayoutPanel11</value>
   </data>
   <data name="tableLayoutPanel10.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -393,8 +396,8 @@
   <data name="comboTrainer.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
-  <data name="tableLayoutPanel9.RowCount" type="System.Int32, mscorlib">
-    <value>5</value>
+  <data name="&gt;&gt;label27.ZOrder" xml:space="preserve">
+    <value>9</value>
   </data>
   <data name="&gt;&gt;checkCoffee.Parent" xml:space="preserve">
     <value>tableLayoutPanel11</value>
@@ -402,14 +405,8 @@
   <data name="&gt;&gt;tableLayoutPanel15.Name" xml:space="preserve">
     <value>tableLayoutPanel15</value>
   </data>
-  <data name="comboLocation2.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
   <data name="tableLayoutPanel13.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
-  </data>
-  <data name="tableLayoutPanel20.RowCount" type="System.Int32, mscorlib">
-    <value>2</value>
   </data>
   <data name="label22.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -421,7 +418,7 @@
     <value>1</value>
   </data>
   <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>635, 3</value>
+    <value>610, 3</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel17.Parent" xml:space="preserve">
     <value>tableLayoutPanel7</value>
@@ -450,9 +447,6 @@
   <data name="textVillage.Location" type="System.Drawing.Point, System.Drawing">
     <value>172, 97</value>
   </data>
-  <data name="label16.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 5, 0, 0</value>
-  </data>
   <data name="tableLayoutPanel6.Location" type="System.Drawing.Point, System.Drawing">
     <value>237, 132</value>
   </data>
@@ -468,11 +462,14 @@
   <data name="label29.Size" type="System.Drawing.Size, System.Drawing">
     <value>163, 47</value>
   </data>
+  <data name="label33.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 0, 18, 0</value>
+  </data>
   <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 570</value>
   </data>
-  <data name="btnTaj.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1382, 1</value>
   </data>
   <data name="checkSupper.TabIndex" type="System.Int32, mscorlib">
     <value>27</value>
@@ -480,8 +477,11 @@
   <data name="label12.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopRight</value>
   </data>
-  <data name="&gt;&gt;label34.Parent" xml:space="preserve">
-    <value>tableLayoutPanel19</value>
+  <data name="labelVillage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 94</value>
+  </data>
+  <data name="textTopic.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
   </data>
   <data name="comboJamoat.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -497,6 +497,9 @@
   </data>
   <data name="&gt;&gt;textVillage.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn14.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="label31.TabIndex" type="System.Int32, mscorlib">
     <value>20</value>
@@ -516,14 +519,11 @@
   <data name="checkLunch.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12.5pt</value>
   </data>
-  <data name="textLocation2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12pt</value>
-  </data>
   <data name="textAge.MaxLength" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;btnTaj.Parent" xml:space="preserve">
-    <value>tableLayoutPanel2</value>
+  <data name="&gt;&gt;textLocation2.Name" xml:space="preserve">
+    <value>textLocation2</value>
   </data>
   <data name="&gt;&gt;textParName2.Name" xml:space="preserve">
     <value>textParName2</value>
@@ -549,17 +549,14 @@
   <data name="leble001.Text" xml:space="preserve">
     <value>Date:</value>
   </data>
-  <data name="textBox2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
+  <data name="textQR.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 31</value>
   </data>
   <data name="tableLayoutPanel17.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="comboType" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="textOther" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50" /&gt;&lt;Rows Styles="Percent,50,Percent,50" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
-  <data name="&gt;&gt;buttonSubmit.Parent" xml:space="preserve">
-    <value>tableLayoutPanel4</value>
-  </data>
-  <data name="textBox1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12pt</value>
+  <data name="comboProject.Size" type="System.Drawing.Size, System.Drawing">
+    <value>206, 30</value>
   </data>
   <data name="dataGridViewTextBoxColumn13.Width" type="System.Int32, mscorlib">
     <value>125</value>
@@ -567,8 +564,8 @@
   <data name="labelVillage.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
   </data>
-  <data name="&gt;&gt;label16.Name" xml:space="preserve">
-    <value>label16</value>
+  <data name="tableLayoutPanel8.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="label10" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel9" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel10" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,39,Percent,1,5,Percent,29,Percent,1,5,Percent,29" /&gt;&lt;Rows Styles="Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="&gt;&gt;comboTopic.Type" xml:space="preserve">
     <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -600,6 +597,9 @@
   <data name="label23.TabIndex" type="System.Int32, mscorlib">
     <value>31</value>
   </data>
+  <data name="tableLayoutPanel10.RowCount" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
   <data name="label24.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 0</value>
   </data>
@@ -609,11 +609,14 @@
   <data name="&gt;&gt;comboLocation.Type" xml:space="preserve">
     <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="buttonPrint.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Left</value>
+  <data name="&gt;&gt;buttonBack.Name" xml:space="preserve">
+    <value>buttonBack</value>
   </data>
   <data name="label22.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopRight</value>
+  </data>
+  <data name="label26.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
   </data>
   <data name="label35.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -621,8 +624,8 @@
   <data name="&gt;&gt;checkSupper.Name" xml:space="preserve">
     <value>checkSupper</value>
   </data>
-  <data name="tableLayoutPanel3.RowCount" type="System.Int32, mscorlib">
-    <value>3</value>
+  <data name="tableLayoutPanel15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>237, 264</value>
   </data>
   <data name="label13.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt, style=Bold</value>
@@ -636,8 +639,11 @@
   <data name="label2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 3, 0, 3</value>
   </data>
-  <data name="tableLayoutPanel15.Location" type="System.Drawing.Point, System.Drawing">
-    <value>237, 264</value>
+  <data name="dataGridViewTextBoxColumn9.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="buttonEdit.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
   </data>
   <data name="label29.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -645,20 +651,23 @@
   <data name="tableLayoutPanel18.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="comboLocation" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="textLocation" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50" /&gt;&lt;Rows Styles="Percent,50,Percent,50,Absolute,20,Absolute,20" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
-  <data name="&gt;&gt;btnEng.ZOrder" xml:space="preserve">
-    <value>3</value>
+  <data name="comboTopic.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel15.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comboGender.ZOrder" xml:space="preserve">
+    <value>13</value>
   </data>
   <data name="tableLayoutPanel15.TabIndex" type="System.Int32, mscorlib">
     <value>18</value>
   </data>
-  <data name="&gt;&gt;btnTaj.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="&gt;&gt;label5.Parent" xml:space="preserve">
     <value>tableLayoutPanel13</value>
   </data>
-  <data name="label33.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 10pt</value>
+  <data name="buttonBack.Location" type="System.Drawing.Point, System.Drawing">
+    <value>45, 3</value>
   </data>
   <data name="comboTrainer.Size" type="System.Drawing.Size, System.Drawing">
     <value>206, 30</value>
@@ -672,8 +681,8 @@
   <data name="&gt;&gt;textLocation.Parent" xml:space="preserve">
     <value>tableLayoutPanel18</value>
   </data>
-  <data name="&gt;&gt;label24.ZOrder" xml:space="preserve">
-    <value>3</value>
+  <data name="label29.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="&gt;&gt;textQR.ZOrder" xml:space="preserve">
     <value>9</value>
@@ -690,29 +699,26 @@
   <data name="&gt;&gt;tableLayoutPanel9.Type" xml:space="preserve">
     <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="label29.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="tableLayoutPanel9.RowCount" type="System.Int32, mscorlib">
+    <value>5</value>
   </data>
   <data name="tableLayoutPanel17.Size" type="System.Drawing.Size, System.Drawing">
     <value>216, 80</value>
   </data>
-  <data name="dataGridViewTextBoxColumn9.MinimumWidth" type="System.Int32, mscorlib">
-    <value>6</value>
+  <data name="label34.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
   </data>
-  <data name="&gt;&gt;dataGridViewTextBoxColumn2.Name" xml:space="preserve">
-    <value>dataGridViewTextBoxColumn2</value>
+  <data name="label5.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
   </data>
   <data name="&gt;&gt;textPassport.Parent" xml:space="preserve">
     <value>tableLayoutPanel7</value>
   </data>
-  <data name="&gt;&gt;label14.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
   <data name="tableLayoutPanel8.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
   </data>
-  <data name="leble001.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 0, 0, 1</value>
+  <data name="label20.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
   </data>
   <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
     <value>231, 66</value>
@@ -798,14 +804,11 @@
   <data name="&gt;&gt;tableLayoutPanel9.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="&gt;&gt;checkStationary.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="trainingDataGridView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 575</value>
   </data>
   <data name="&gt;&gt;label12.ZOrder" xml:space="preserve">
     <value>1</value>
-  </data>
-  <data name="&gt;&gt;textLocation2.Name" xml:space="preserve">
-    <value>textLocation2</value>
   </data>
   <data name="label8.Text" xml:space="preserve">
     <value>Type/Topic of event</value>
@@ -837,8 +840,11 @@
   <data name="&gt;&gt;dataGridViewCheckBoxColumn2.Type" xml:space="preserve">
     <value>System.Windows.Forms.DataGridViewCheckBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="labelParticipant.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>TopRight</value>
+  <data name="leble001.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="label24.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="&gt;&gt;label12.Parent" xml:space="preserve">
     <value>tableLayoutPanel9</value>
@@ -850,7 +856,7 @@
     <value>tableLayoutPanel7</value>
   </data>
   <data name="tableLayoutPanel4.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="buttonUpdate" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="buttonSubmit" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="buttonPrint" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="btn_add" Row="0" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="buttonEdit" Row="0" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Absolute,191,Absolute,149,Absolute,317,Percent,100,Absolute,227" /&gt;&lt;Rows Styles="Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="buttonSubmit" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="buttonPrint" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="btn_add" Row="0" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="buttonEdit" Row="0" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="buttonUpdate" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="buttonBack" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Absolute,191,Absolute,149,Absolute,148,Absolute,176,Percent,100,Absolute,227" /&gt;&lt;Rows Styles="Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="&gt;&gt;label18.ZOrder" xml:space="preserve">
     <value>5</value>
@@ -864,8 +870,8 @@
   <data name="&gt;&gt;buttonEdit.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="tableLayoutPanel15.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
+  <data name="dataGridViewTextBoxColumn10.HeaderText" xml:space="preserve">
+    <value>Phone</value>
   </data>
   <data name="&gt;&gt;buttonSubmit.Name" xml:space="preserve">
     <value>buttonSubmit</value>
@@ -878,9 +884,6 @@
   </data>
   <data name="textTopic.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
-  </data>
-  <data name="tableLayoutPanel10.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>10, 10, 10, 10</value>
   </data>
   <data name="&gt;&gt;comboProject.Type" xml:space="preserve">
     <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -927,6 +930,9 @@
   <data name="&gt;&gt;label28.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="&gt;&gt;textBox4.Name" xml:space="preserve">
+    <value>textBox4</value>
+  </data>
   <data name="label10.Location" type="System.Drawing.Point, System.Drawing">
     <value>2, 3</value>
   </data>
@@ -963,9 +969,6 @@
   <data name="textQR.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
   </data>
-  <data name="btnEng.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
-  </data>
   <data name="&gt;&gt;buttonSubmit.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -993,8 +996,8 @@
   <data name="&gt;&gt;AddressVillage.Type" xml:space="preserve">
     <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="textTrainer.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
+  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;label12.Name" xml:space="preserve">
     <value>label12</value>
@@ -1004,6 +1007,9 @@
   </data>
   <data name="comboProject.Items1" xml:space="preserve">
     <value>WRRC</value>
+  </data>
+  <data name="textAge.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
   </data>
   <data name="&gt;&gt;label26.Parent" xml:space="preserve">
     <value>tableLayoutPanel11</value>
@@ -1020,8 +1026,11 @@
   <data name="&gt;&gt;tableLayoutPanel2.Type" xml:space="preserve">
     <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="textLocation2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>206, 30</value>
+  <data name="&gt;&gt;buttonBack.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="dataGridViewCheckBoxColumn1.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
   </data>
   <data name="label13.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1035,8 +1044,8 @@
   <data name="LocationJamoat.MinimumWidth" type="System.Int32, mscorlib">
     <value>6</value>
   </data>
-  <data name="label7.Text" xml:space="preserve">
-    <value>Category of the event</value>
+  <data name="buttonEdit.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
   </data>
   <data name="label14.Text" xml:space="preserve">
     <value>Type/Topic of event</value>
@@ -1068,6 +1077,9 @@
   <data name="&gt;&gt;label23.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <data name="textQR.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12.5pt</value>
+  </data>
   <data name="textBox5.Size" type="System.Drawing.Size, System.Drawing">
     <value>1, 30</value>
   </data>
@@ -1098,17 +1110,17 @@
   <data name="label17.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
-  <data name="tableLayoutPanel18.Size" type="System.Drawing.Size, System.Drawing">
-    <value>212, 66</value>
+  <data name="trainingDataGridView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
   </data>
-  <data name="&gt;&gt;label6.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="buttonEdit.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
-  <data name="&gt;&gt;label31.Parent" xml:space="preserve">
-    <value>tableLayoutPanel13</value>
+  <data name="tableLayoutPanel20.RowCount" type="System.Int32, mscorlib">
+    <value>2</value>
   </data>
-  <data name="textQR.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12.5pt</value>
+  <data name="comboDistrict.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
   </data>
   <data name="comboTopic.Items2" xml:space="preserve">
     <value>Технологияи парвариши нахуд ва мош</value>
@@ -1137,17 +1149,11 @@
   <data name="tableLayoutPanel19.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="label33" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label34" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label35" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,34,94,Absolute,5,Percent,65,06" /&gt;&lt;Rows Styles="Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
-  <data name="btnTaj.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1053, 3</value>
-  </data>
-  <data name="label17.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 46</value>
-  </data>
   <data name="textBox4.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
   </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>Form1</value>
+  <data name="label20.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 184</value>
   </data>
   <data name="checkCoffee.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1163,6 +1169,9 @@
   </data>
   <data name="label19.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopRight</value>
+  </data>
+  <data name="&gt;&gt;label31.Parent" xml:space="preserve">
+    <value>tableLayoutPanel13</value>
   </data>
   <data name="&gt;&gt;leble001.ZOrder" xml:space="preserve">
     <value>1</value>
@@ -1188,6 +1197,9 @@
   <data name="tableLayoutPanel5.RowCount" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
+  <data name="label31.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 5, 0, 0</value>
+  </data>
   <data name="label13.Text" xml:space="preserve">
     <value>Category of the event</value>
   </data>
@@ -1200,14 +1212,8 @@
   <data name="&gt;&gt;buttonPrint.Parent" xml:space="preserve">
     <value>tableLayoutPanel4</value>
   </data>
-  <data name="label21.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
   <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
     <value>1</value>
-  </data>
-  <data name="&gt;&gt;label27.ZOrder" xml:space="preserve">
-    <value>9</value>
   </data>
   <data name="&gt;&gt;label17.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1225,7 +1231,7 @@
     <value>Microsoft Sans Serif, 12pt, style=Bold</value>
   </data>
   <data name="buttonUpdate.Location" type="System.Drawing.Point, System.Drawing">
-    <value>44, 3</value>
+    <value>194, 3</value>
   </data>
   <data name="buttonEdit.Size" type="System.Drawing.Size, System.Drawing">
     <value>144, 41</value>
@@ -1239,11 +1245,14 @@
   <data name="&gt;&gt;dataGridViewTextBoxColumn18.Type" xml:space="preserve">
     <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="dataGridViewCheckBoxColumn1.MinimumWidth" type="System.Int32, mscorlib">
-    <value>6</value>
+  <data name="tableLayoutPanel18.ColumnCount" type="System.Int32, mscorlib">
+    <value>1</value>
   </data>
   <data name="dataGridViewTextBoxColumn3.MinimumWidth" type="System.Int32, mscorlib">
     <value>6</value>
+  </data>
+  <data name="textLocation.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
   </data>
   <data name="&gt;&gt;comboTrainer.Type" xml:space="preserve">
     <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1251,8 +1260,8 @@
   <data name="label23.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 5, 0, 0</value>
   </data>
-  <data name="buttonEdit.TabIndex" type="System.Int32, mscorlib">
-    <value>30</value>
+  <data name="label19.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 5, 0, 0</value>
   </data>
   <data name="&gt;&gt;tableAdapterManager.Type" xml:space="preserve">
     <value>RegistrationForm.DatabaseDataSetTableAdapters.TableAdapterManager, DatabaseDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
@@ -1272,17 +1281,14 @@
   <data name="tableLayoutPanel18.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
   </data>
-  <data name="&gt;&gt;textBox3.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
   <data name="&gt;&gt;dataGridViewCheckBoxColumn1.Name" xml:space="preserve">
     <value>dataGridViewCheckBoxColumn1</value>
   </data>
   <data name="label5.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
-  <data name="dataGridViewTextBoxColumn14.Width" type="System.Int32, mscorlib">
-    <value>125</value>
+  <data name="textVillage.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12.5pt</value>
   </data>
   <data name="label10.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 3, 0, 3</value>
@@ -1290,8 +1296,8 @@
   <data name="label24.Size" type="System.Drawing.Size, System.Drawing">
     <value>163, 47</value>
   </data>
-  <data name="&gt;&gt;dataGridViewTextBoxColumn11.Type" xml:space="preserve">
-    <value>System.Windows.Forms.DataGridViewCheckBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="label32.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 515</value>
@@ -1318,7 +1324,7 @@
     <value>Microsoft Sans Serif, 12pt, style=Bold</value>
   </data>
   <data name="&gt;&gt;buttonPrint.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>1</value>
   </data>
   <data name="label17.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1340,9 +1346,6 @@
   </data>
   <data name="&gt;&gt;tableLayoutPanel18.Type" xml:space="preserve">
     <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label32.Name" xml:space="preserve">
-    <value>label32</value>
   </data>
   <data name="label33.Size" type="System.Drawing.Size, System.Drawing">
     <value>101, 28</value>
@@ -1380,17 +1383,17 @@
   <data name="&gt;&gt;label26.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="label14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1, 73</value>
+  </data>
   <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
     <value>tableLayoutPanel2</value>
   </data>
   <data name="&gt;&gt;label28.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
-  <data name="dataGridViewTextBoxColumn10.HeaderText" xml:space="preserve">
-    <value>Phone</value>
-  </data>
-  <data name="tableLayoutPanel8.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="label10" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel9" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel10" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,39,Percent,1,5,Percent,29,Percent,1,5,Percent,29" /&gt;&lt;Rows Styles="Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  <data name="dataGridViewTextBoxColumn14.Width" type="System.Int32, mscorlib">
+    <value>125</value>
   </data>
   <data name="tableLayoutPanel10.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls /&gt;&lt;Columns Styles="Percent,100" /&gt;&lt;Rows Styles="Percent,16,66667,Percent,16,66667,Percent,16,66667,Percent,16,66667,Percent,16,66667,Percent,16,66667" /&gt;&lt;/TableLayoutSettings&gt;</value>
@@ -1398,17 +1401,17 @@
   <data name="&gt;&gt;tableLayoutPanel12.Type" xml:space="preserve">
     <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="tableLayoutPanel14.TabIndex" type="System.Int32, mscorlib">
-    <value>17</value>
+  <data name="&gt;&gt;label20.Name" xml:space="preserve">
+    <value>label20</value>
   </data>
   <data name="textTopic.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 36</value>
   </data>
+  <data name="textLocation2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>206, 30</value>
+  </data>
   <data name="&gt;&gt;tableLayoutPanel6.Type" xml:space="preserve">
     <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="trainingDataGridView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
   </data>
   <data name="textBox5.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 295</value>
@@ -1423,16 +1426,19 @@
     <value>3, 1, 3, 0</value>
   </data>
   <data name="tableLayoutPanel12.Size" type="System.Drawing.Size, System.Drawing">
-    <value>498, 44</value>
+    <value>483, 44</value>
+  </data>
+  <data name="textParName2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 31</value>
   </data>
   <data name="label16.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopRight</value>
   </data>
-  <data name="&gt;&gt;tableLayoutPanel14.Name" xml:space="preserve">
-    <value>tableLayoutPanel14</value>
+  <data name="buttonPrint.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
   </data>
-  <data name="&gt;&gt;label19.Name" xml:space="preserve">
-    <value>label19</value>
+  <data name="buttonPrint.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
   </data>
   <data name="&gt;&gt;textAccommodation.Name" xml:space="preserve">
     <value>textAccommodation</value>
@@ -1440,17 +1446,14 @@
   <data name="textAge.Location" type="System.Drawing.Point, System.Drawing">
     <value>172, 233</value>
   </data>
-  <data name="&gt;&gt;textQR.Name" xml:space="preserve">
-    <value>textQR</value>
+  <data name="&gt;&gt;label19.Name" xml:space="preserve">
+    <value>label19</value>
   </data>
   <data name="&gt;&gt;label14.Name" xml:space="preserve">
     <value>label14</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel14.ZOrder" xml:space="preserve">
     <value>7</value>
-  </data>
-  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
   </data>
   <data name="&gt;&gt;textOther.ZOrder" xml:space="preserve">
     <value>1</value>
@@ -1479,8 +1482,8 @@
   <data name="textBox1.Size" type="System.Drawing.Size, System.Drawing">
     <value>1, 30</value>
   </data>
-  <data name="&gt;&gt;label20.Name" xml:space="preserve">
-    <value>label20</value>
+  <data name="&gt;&gt;label34.Parent" xml:space="preserve">
+    <value>tableLayoutPanel19</value>
   </data>
   <data name="comboTrainer.Items1" xml:space="preserve">
     <value>Дигар</value>
@@ -1488,17 +1491,14 @@
   <data name="label19.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
   </data>
-  <data name="tableLayoutPanel16.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 0, 0, 0</value>
+  <data name="textLocation2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 36</value>
   </data>
   <data name="label8.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 5, 0, 0</value>
   </data>
-  <data name="LocationJamoat.Width" type="System.Int32, mscorlib">
-    <value>125</value>
-  </data>
-  <data name="label15.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="&gt;&gt;label20.ZOrder" xml:space="preserve">
+    <value>7</value>
   </data>
   <data name="&gt;&gt;label33.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1515,11 +1515,14 @@
   <data name="&gt;&gt;textAccommodation.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="dataGridViewTextBoxColumn15.HeaderText" xml:space="preserve">
-    <value>Event District</value>
+  <data name="&gt;&gt;label13.Name" xml:space="preserve">
+    <value>label13</value>
   </data>
-  <data name="&gt;&gt;label31.Name" xml:space="preserve">
-    <value>label31</value>
+  <data name="comboTopic.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11pt</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel2.Name" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
   </data>
   <data name="label35.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10pt</value>
@@ -1551,8 +1554,8 @@
   <data name="dataGridViewTextBoxColumn13.HeaderText" xml:space="preserve">
     <value>Date</value>
   </data>
-  <data name="&gt;&gt;label3.Name" xml:space="preserve">
-    <value>label3</value>
+  <data name="buttonBack.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Right</value>
   </data>
   <data name="comboLocation2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 11pt</value>
@@ -1569,17 +1572,29 @@
   <data name="tableLayoutPanel14.ColumnCount" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
+  <data name="&gt;&gt;textTopic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="comboTopic.Items4" xml:space="preserve">
+    <value>Дигар</value>
+  </data>
+  <data name="&gt;&gt;checkStationary.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="tableLayoutPanel4.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
   <data name="dataGridViewTextBoxColumn5.HeaderText" xml:space="preserve">
     <value>Passport ID</value>
   </data>
+  <data name="&gt;&gt;buttonSubmit.Parent" xml:space="preserve">
+    <value>tableLayoutPanel4</value>
+  </data>
   <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 3</value>
   </data>
-  <data name="AddressJumoat.Width" type="System.Int32, mscorlib">
-    <value>160</value>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 0</value>
   </data>
   <data name="textTrainer.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -1656,11 +1671,11 @@
   <data name="&gt;&gt;label13.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;tableLayoutPanel15.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="label25.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
-  <data name="label14.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1, 73</value>
+  <data name="label27.Size" type="System.Drawing.Size, System.Drawing">
+    <value>163, 47</value>
   </data>
   <data name="date_field.Font" type="System.Drawing.Font, System.Drawing">
     <value>Bahnschrift, 13pt</value>
@@ -1686,9 +1701,6 @@
   <data name="dataGridViewTextBoxColumn2.Width" type="System.Int32, mscorlib">
     <value>125</value>
   </data>
-  <data name="&gt;&gt;dataGridViewTextBoxColumn1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="&gt;&gt;tableLayoutPanel8.Parent" xml:space="preserve">
     <value>tableLayoutPanel5</value>
   </data>
@@ -1704,9 +1716,6 @@
   <data name="&gt;&gt;label22.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="comboTrainer.Items2" xml:space="preserve">
-    <value>Шаҳриёр Сатторов</value>
-  </data>
   <data name="comboProject.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
@@ -1716,14 +1725,14 @@
   <data name="textParName.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
   </data>
-  <data name="&gt;&gt;label32.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
   <data name="checkSupper.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12.5pt</value>
   </data>
-  <data name="&gt;&gt;comboType.Name" xml:space="preserve">
-    <value>comboType</value>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn15.HeaderText" xml:space="preserve">
+    <value>Event District</value>
   </data>
   <data name="&gt;&gt;comboProject.ZOrder" xml:space="preserve">
     <value>0</value>
@@ -1761,8 +1770,11 @@
   <data name="&gt;&gt;tableLayoutPanel18.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;textTopic.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="label16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 0</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
   </data>
   <data name="tableLayoutPanel6.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -1785,9 +1797,6 @@
   <data name="comboGender.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
   </data>
-  <data name="checkSupper.Location" type="System.Drawing.Point, System.Drawing">
-    <value>172, 238</value>
-  </data>
   <data name="comboDistrict.TabIndex" type="System.Int32, mscorlib">
     <value>22</value>
   </data>
@@ -1806,8 +1815,8 @@
   <data name="label15.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopRight</value>
   </data>
-  <data name="trainingDataGridView.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
+  <data name="comboLocation.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11pt</value>
   </data>
   <data name="label35.Location" type="System.Drawing.Point, System.Drawing">
     <value>489, 0</value>
@@ -1819,22 +1828,19 @@
     <value>SUBMIT DATA</value>
   </data>
   <data name="tableLayoutPanel4.ColumnCount" type="System.Int32, mscorlib">
-    <value>5</value>
+    <value>6</value>
   </data>
   <data name="tableLayoutPanel15.Size" type="System.Drawing.Size, System.Drawing">
     <value>212, 66</value>
   </data>
-  <data name="label24.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="label7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
   </data>
   <data name="textLocation.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 36</value>
   </data>
   <data name="&gt;&gt;dataGridViewTextBoxColumn10.Name" xml:space="preserve">
     <value>dataGridViewTextBoxColumn10</value>
-  </data>
-  <data name="&gt;&gt;tableLayoutPanel5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tableAdapterManager.Name" xml:space="preserve">
     <value>tableAdapterManager</value>
@@ -1848,8 +1854,8 @@
   <data name="&gt;&gt;tableLayoutPanel11.Parent" xml:space="preserve">
     <value>tableLayoutPanel5</value>
   </data>
-  <data name="label20.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 184</value>
+  <data name="label19.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 138</value>
   </data>
   <data name="&gt;&gt;checkCoffee.Type" xml:space="preserve">
     <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1875,29 +1881,29 @@
   <data name="comboLocation2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
-  <data name="&gt;&gt;btnEng.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;tableLayoutPanel13.Parent" xml:space="preserve">
+    <value>tableLayoutPanel5</value>
+  </data>
+  <data name="comboLocation.Items" xml:space="preserve">
+    <value>Лахш</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel1.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;comboJamoat.Name" xml:space="preserve">
-    <value>comboJamoat</value>
-  </data>
-  <data name="label25.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="label18.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
   </data>
   <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
     <value>8</value>
-  </data>
-  <data name="labelParticipant.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 276</value>
   </data>
   <data name="leble001.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="&gt;&gt;checkStationary.ZOrder" xml:space="preserve">
     <value>15</value>
+  </data>
+  <data name="&gt;&gt;comboJamoat.Name" xml:space="preserve">
+    <value>comboJamoat</value>
   </data>
   <data name="&gt;&gt;trainingTableAdapter.Type" xml:space="preserve">
     <value>RegistrationForm.DatabaseDataSetTableAdapters.TrainingTableAdapter, DatabaseDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
@@ -1920,9 +1926,6 @@
   <data name="&gt;&gt;label15.Parent" xml:space="preserve">
     <value>tableLayoutPanel9</value>
   </data>
-  <data name="comboTopic.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 11pt</value>
-  </data>
   <data name="comboGender.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
@@ -1944,6 +1947,9 @@
   <data name="buttonSubmit.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Left</value>
   </data>
+  <data name="&gt;&gt;textLocation2.Parent" xml:space="preserve">
+    <value>tableLayoutPanel6</value>
+  </data>
   <data name="label22.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 5, 0, 0</value>
   </data>
@@ -1964,9 +1970,6 @@
   </data>
   <data name="tableLayoutPanel3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
-  </data>
-  <data name="comboLocation.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 11pt</value>
   </data>
   <data name="&gt;&gt;textOther.Name" xml:space="preserve">
     <value>textOther</value>
@@ -2714,20 +2717,14 @@
   <data name="&gt;&gt;dataGridViewTextBoxColumn12.Type" xml:space="preserve">
     <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="tableLayoutPanel7.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="textParName2" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="labelParticipant" Row="6" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label25" Row="7" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label16" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label17" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label18" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label19" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label20" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label21" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="textQR" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textParName" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textAge" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textPassport" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="comboGender" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel17" Row="7" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textPhone" Row="6" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,44,Percent,56" /&gt;&lt;Rows Styles="Percent,11,66408,Percent,11,66407,Percent,11,66407,Percent,11,66407,Percent,11,66407,Percent,11,66407,Percent,11,66786,Percent,18,34771" /&gt;&lt;/TableLayoutSettings&gt;</value>
-  </data>
   <data name="tableLayoutPanel14.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="comboCategory" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="textCategory" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50" /&gt;&lt;Rows Styles="Percent,50,Percent,50,Absolute,20,Absolute,20" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="pictureBox2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>210, 38</value>
+    <value>204, 38</value>
   </data>
   <data name="dataGridViewCheckBoxColumn2.Width" type="System.Int32, mscorlib">
     <value>120</value>
-  </data>
-  <data name="AddressJumoat.MinimumWidth" type="System.Int32, mscorlib">
-    <value>6</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel3.Parent" xml:space="preserve">
     <value>tableLayoutPanel1</value>
@@ -2747,9 +2744,6 @@
   <data name="&gt;&gt;textLocation.Name" xml:space="preserve">
     <value>textLocation</value>
   </data>
-  <data name="label24.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
   <data name="label35.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
@@ -2762,6 +2756,9 @@
   <data name="&gt;&gt;comboLocation2.Parent" xml:space="preserve">
     <value>tableLayoutPanel6</value>
   </data>
+  <data name="&gt;&gt;textQR.Name" xml:space="preserve">
+    <value>textQR</value>
+  </data>
   <data name="trainingDataGridView.ColumnHeadersHeight" type="System.Int32, mscorlib">
     <value>30</value>
   </data>
@@ -2770,6 +2767,9 @@
   </data>
   <data name="labelVillage.Size" type="System.Drawing.Size, System.Drawing">
     <value>163, 47</value>
+  </data>
+  <data name="&gt;&gt;textBox3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;label3.Parent" xml:space="preserve">
     <value>tableLayoutPanel5</value>
@@ -2783,8 +2783,8 @@
   <data name="&gt;&gt;trainingTableAdapter.Name" xml:space="preserve">
     <value>trainingTableAdapter</value>
   </data>
-  <data name="leble001.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Bahnschrift, 13pt</value>
+  <data name="labelParticipant.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopRight</value>
   </data>
   <data name="label29.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 282</value>
@@ -2810,14 +2810,14 @@
   <data name="label18.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="&gt;&gt;textBox5.Name" xml:space="preserve">
-    <value>textBox5</value>
+  <data name="label20.Text" xml:space="preserve">
+    <value>Passport ID</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel5.Name" xml:space="preserve">
     <value>tableLayoutPanel5</value>
   </data>
-  <data name="label16.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 0</value>
+  <data name="label35.Text" xml:space="preserve">
+    <value>Participant Info</value>
   </data>
   <data name="tableLayoutPanel5.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="tableLayoutPanel13" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel11" Row="0" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel8" Row="0" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label3" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel7" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,35,Percent,0,5,Percent,30,5,Percent,0,5,Percent,30,5,Percent,3" /&gt;&lt;Rows Styles="Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
@@ -2837,8 +2837,8 @@
   <data name="&gt;&gt;tableLayoutPanel20.ZOrder" xml:space="preserve">
     <value>11</value>
   </data>
-  <data name="&gt;&gt;btnTaj.ZOrder" xml:space="preserve">
-    <value>4</value>
+  <data name="labelParticipant.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 276</value>
   </data>
   <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -3134,14 +3134,14 @@
         dOJjMXFMtnRFlIzn7W96NzQ0NDQ03GS4du3/A6ZKxOway4m4AAAAAElFTkSuQmCC
 </value>
   </data>
-  <data name="label13.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 4, 0, 0</value>
-  </data>
-  <data name="tableLayoutPanel20.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
+  <data name="label23.Text" xml:space="preserve">
+    <value>Accommodation</value>
   </data>
   <data name="checkLunch.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
+  </data>
+  <data name="tableLayoutPanel14.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
   </data>
   <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
     <value>231, 66</value>
@@ -3170,8 +3170,11 @@
   <data name="leble001.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="dataGridViewTextBoxColumn4.MinimumWidth" type="System.Int32, mscorlib">
-    <value>6</value>
+  <data name="&gt;&gt;textCategory.Parent" xml:space="preserve">
+    <value>tableLayoutPanel14</value>
+  </data>
+  <data name="trainingDataGridView.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
   </data>
   <data name="comboCategory.Items3" xml:space="preserve">
     <value>Рӯзҳои саҳроии деҳқонон</value>
@@ -3179,8 +3182,8 @@
   <data name="dataGridViewTextBoxColumn14.MinimumWidth" type="System.Int32, mscorlib">
     <value>6</value>
   </data>
-  <data name="textBox2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12pt</value>
+  <data name="btn_add.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="checkLunch.TabIndex" type="System.Int32, mscorlib">
     <value>26</value>
@@ -3194,35 +3197,35 @@
   <data name="label26.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopRight</value>
   </data>
-  <data name="tableLayoutPanel5.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 0, 0, 0</value>
-  </data>
   <data name="&gt;&gt;dataGridViewCheckBoxColumn3.Name" xml:space="preserve">
     <value>dataGridViewCheckBoxColumn3</value>
   </data>
-  <data name="dataGridViewTextBoxColumn11.MinimumWidth" type="System.Int32, mscorlib">
-    <value>6</value>
+  <data name="tableLayoutPanel13.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="label5" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label6" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel18" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label9" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel16" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label8" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel15" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel14" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label7" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label31" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel6" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel20" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,53,Percent,47" /&gt;&lt;Rows Styles="Percent,16,66667,Percent,16,66667,Percent,16,66667,Percent,16,66667,Percent,16,66667,Percent,16,66667,Absolute,20" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="tableLayoutPanel16.ColumnCount" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
-  <data name="dataGridViewTextBoxColumn16.Width" type="System.Int32, mscorlib">
-    <value>125</value>
+  <data name="tableLayoutPanel18.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
   </data>
   <data name="tableLayoutPanel2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
-  <data name="&gt;&gt;label25.Parent" xml:space="preserve">
-    <value>tableLayoutPanel7</value>
+  <data name="textTrainer.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
   </data>
-  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 0</value>
+  <data name="tableLayoutPanel7.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>16, 10, 20, 11</value>
   </data>
   <data name="label16.Text" xml:space="preserve">
     <value>Participant ID (QR)</value>
   </data>
   <data name="label26.Size" type="System.Drawing.Size, System.Drawing">
     <value>163, 47</value>
+  </data>
+  <data name="textBox2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
   </data>
   <data name="label23.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -3236,8 +3239,8 @@
   <data name="&gt;&gt;label17.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="textLocation2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 36</value>
+  <data name="&gt;&gt;pictureBox2.Name" xml:space="preserve">
+    <value>pictureBox2</value>
   </data>
   <data name="comboTopic.Size" type="System.Drawing.Size, System.Drawing">
     <value>206, 30</value>
@@ -3293,11 +3296,11 @@
   <data name="&gt;&gt;dataGridViewTextBoxColumn14.Name" xml:space="preserve">
     <value>dataGridViewTextBoxColumn14</value>
   </data>
-  <data name="&gt;&gt;dataGridViewTextBoxColumn13.Name" xml:space="preserve">
-    <value>dataGridViewTextBoxColumn13</value>
+  <data name="buttonBack.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
   </data>
-  <data name="&gt;&gt;label20.ZOrder" xml:space="preserve">
-    <value>7</value>
+  <data name="date_field.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
   </data>
   <data name="textLocation.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -3305,8 +3308,8 @@
   <data name="&gt;&gt;comboCategory.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="label21.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 230</value>
+  <data name="label15.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="comboCategory.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 11pt</value>
@@ -3319,9 +3322,6 @@
   </data>
   <data name="&gt;&gt;dataGridViewTextBoxColumn7.Name" xml:space="preserve">
     <value>dataGridViewTextBoxColumn7</value>
-  </data>
-  <data name="label35.Text" xml:space="preserve">
-    <value>Participant Info</value>
   </data>
   <data name="label21.Size" type="System.Drawing.Size, System.Drawing">
     <value>163, 46</value>
@@ -3353,14 +3353,14 @@
   <data name="date_field.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
   </data>
-  <data name="tableLayoutPanel6.TabIndex" type="System.Int32, mscorlib">
-    <value>21</value>
+  <data name="&gt;&gt;label24.ZOrder" xml:space="preserve">
+    <value>3</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel11.Name" xml:space="preserve">
     <value>tableLayoutPanel11</value>
   </data>
-  <data name="label12.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 73</value>
+  <data name="&gt;&gt;buttonBack.Parent" xml:space="preserve">
+    <value>tableLayoutPanel4</value>
   </data>
   <data name="label33.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -3383,20 +3383,20 @@
   <data name="textBox2.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
   </data>
-  <data name="tableLayoutPanel8.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
   <data name="tableLayoutPanel14.RowCount" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
   <data name="&gt;&gt;textVillage.Name" xml:space="preserve">
     <value>textVillage</value>
   </data>
+  <data name="tableLayoutPanel20.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
   <data name="&gt;&gt;label27.Name" xml:space="preserve">
     <value>label27</value>
   </data>
-  <data name="&gt;&gt;btnEng.Parent" xml:space="preserve">
-    <value>tableLayoutPanel2</value>
+  <data name="label27.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 5, 0, 0</value>
   </data>
   <data name="label24.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopRight</value>
@@ -3406,9 +3406,6 @@
   </data>
   <data name="label22.Text" xml:space="preserve">
     <value>Jamoat</value>
-  </data>
-  <data name="dataGridViewTextBoxColumn7.HeaderText" xml:space="preserve">
-    <value>Participant Type</value>
   </data>
   <data name="label31.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 132</value>
@@ -3434,8 +3431,8 @@
   <data name="&gt;&gt;label34.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="label5.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
+  <data name="label21.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
   </data>
   <data name="checkCoffee.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>6, 2, 0, 0</value>
@@ -3464,8 +3461,8 @@
   <data name="label16.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
   </data>
-  <data name="label27.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 5, 0, 0</value>
+  <data name="&gt;&gt;label11.Name" xml:space="preserve">
+    <value>label11</value>
   </data>
   <data name="dataGridViewTextBoxColumn5.Width" type="System.Int32, mscorlib">
     <value>111</value>
@@ -3473,14 +3470,17 @@
   <data name="tableLayoutPanel11.ColumnCount" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
-  <data name="tableLayoutPanel10.RowCount" type="System.Int32, mscorlib">
-    <value>6</value>
+  <data name="date_field.Size" type="System.Drawing.Size, System.Drawing">
+    <value>145, 27</value>
   </data>
   <data name="comboLocation.Items1" xml:space="preserve">
     <value>Муминобод</value>
   </data>
   <data name="&gt;&gt;labelParticipant.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label29.Text" xml:space="preserve">
+    <value>Stationary</value>
   </data>
   <data name="tableLayoutPanel17.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -3491,16 +3491,22 @@
   <data name="label18.Text" xml:space="preserve">
     <value>Last Name</value>
   </data>
+  <data name="&gt;&gt;label16.Parent" xml:space="preserve">
+    <value>tableLayoutPanel7</value>
+  </data>
   <data name="label11.Text" xml:space="preserve">
     <value>Project</value>
   </data>
-  <data name="&gt;&gt;comboGender.ZOrder" xml:space="preserve">
-    <value>13</value>
+  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
+    <value>tableLayoutPanel9</value>
   </data>
   <data name="&gt;&gt;checkLunch.Parent" xml:space="preserve">
     <value>tableLayoutPanel11</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel8.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel19.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
   <data name="tableLayoutPanel20.Location" type="System.Drawing.Point, System.Drawing">
@@ -3521,8 +3527,8 @@
   <data name="tableLayoutPanel1.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 0</value>
   </data>
-  <data name="textLocation.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
+  <data name="&gt;&gt;comboLocation2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="label23.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
@@ -3533,11 +3539,11 @@
   <data name="textOther.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
-  <data name="&gt;&gt;textBox4.Parent" xml:space="preserve">
-    <value>tableLayoutPanel9</value>
+  <data name="&gt;&gt;textTopic.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
-  <data name="label7.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  <data name="comboType.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12.5pt</value>
   </data>
   <data name="labelParticipant.Text" xml:space="preserve">
     <value>Phone number</value>
@@ -3545,8 +3551,8 @@
   <data name="&gt;&gt;textPhone.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox2.Name" xml:space="preserve">
-    <value>pictureBox2</value>
+  <data name="label5.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 5, 0, 0</value>
   </data>
   <data name="dataGridViewCheckBoxColumn1.HeaderText" xml:space="preserve">
     <value>Coffee Break</value>
@@ -3554,8 +3560,8 @@
   <data name="textPhone.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
   </data>
-  <data name="label27.Size" type="System.Drawing.Size, System.Drawing">
-    <value>163, 47</value>
+  <data name="label17.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
   </data>
   <data name="&gt;&gt;label13.Parent" xml:space="preserve">
     <value>tableLayoutPanel9</value>
@@ -3563,32 +3569,32 @@
   <data name="tableLayoutPanel8.RowCount" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
+  <data name="buttonBack.Size" type="System.Drawing.Size, System.Drawing">
+    <value>143, 41</value>
+  </data>
   <data name="label31.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopRight</value>
   </data>
-  <data name="label17.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
+  <data name="buttonEdit.Text" xml:space="preserve">
+    <value>EDIT</value>
   </data>
   <data name="&gt;&gt;label9.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="&gt;&gt;textTopic.ZOrder" xml:space="preserve">
-    <value>1</value>
+  <data name="tableLayoutPanel15.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
   </data>
   <data name="&gt;&gt;comboLocation.Name" xml:space="preserve">
     <value>comboLocation</value>
   </data>
-  <data name="tableLayoutPanel17.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
+  <data name="tableLayoutPanel7.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="textParName2" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="labelParticipant" Row="6" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label25" Row="7" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label16" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label17" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label18" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label19" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label20" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label21" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="textQR" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textParName" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textAge" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textPassport" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="comboGender" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel17" Row="7" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textPhone" Row="6" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,44,Percent,56" /&gt;&lt;Rows Styles="Percent,11,66408,Percent,11,66407,Percent,11,66407,Percent,11,66407,Percent,11,66407,Percent,11,66407,Percent,11,66786,Percent,18,34771" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="&gt;&gt;label9.Name" xml:space="preserve">
     <value>label9</value>
   </data>
   <data name="&gt;&gt;buttonSubmit.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="label35.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
+    <value>0</value>
   </data>
   <data name="&gt;&gt;label4.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -3602,8 +3608,11 @@
   <data name="&gt;&gt;textPassport.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;comboLocation2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="label17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 46</value>
+  </data>
+  <data name="&gt;&gt;comboTopic.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <data name="label25.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -3632,8 +3641,11 @@
   <data name="label22.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 47</value>
   </data>
+  <data name="checkStationary.Text" xml:space="preserve">
+    <value> No</value>
+  </data>
   <data name="buttonPrint.Location" type="System.Drawing.Point, System.Drawing">
-    <value>343, 3</value>
+    <value>491, 3</value>
   </data>
   <data name="&gt;&gt;textAge.Parent" xml:space="preserve">
     <value>tableLayoutPanel7</value>
@@ -3647,11 +3659,11 @@
   <data name="&gt;&gt;textCategory.Name" xml:space="preserve">
     <value>textCategory</value>
   </data>
-  <data name="btnTaj.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
+  <data name="dataGridViewTextBoxColumn16.Width" type="System.Int32, mscorlib">
+    <value>125</value>
   </data>
-  <data name="buttonPrint.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9pt</value>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn13.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn13</value>
   </data>
   <data name="label24.Text" xml:space="preserve">
     <value>District</value>
@@ -3665,8 +3677,14 @@
   <data name="comboProject.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 3</value>
   </data>
+  <data name="buttonBack.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
   <data name="label22.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn5.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn5</value>
   </data>
   <data name="label23.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -3675,7 +3693,7 @@
     <value>Transport Cost</value>
   </data>
   <data name="&gt;&gt;btn_add.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>2</value>
   </data>
   <data name="&gt;&gt;comboCategory.Name" xml:space="preserve">
     <value>comboCategory</value>
@@ -3689,14 +3707,17 @@
   <data name="&gt;&gt;label8.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;label24.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="comboDistrict.Items2" xml:space="preserve">
+    <value>Дигар</value>
   </data>
   <data name="AddressVillage.HeaderText" xml:space="preserve">
     <value>Participant Village</value>
   </data>
-  <data name="btnEng.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1162, 3</value>
+  <data name="&gt;&gt;buttonBack.ZOrder" xml:space="preserve">
+    <value>5</value>
   </data>
   <data name="label27.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -3707,11 +3728,8 @@
   <data name="textVillage.Size" type="System.Drawing.Size, System.Drawing">
     <value>210, 31</value>
   </data>
-  <data name="buttonEdit.Text" xml:space="preserve">
-    <value>EDIT</value>
-  </data>
-  <data name="checkStationary.Text" xml:space="preserve">
-    <value> No</value>
+  <data name="comboTrainer.Items2" xml:space="preserve">
+    <value>Шаҳриёр Сатторов</value>
   </data>
   <data name="comboTrainer.Items3" xml:space="preserve">
     <value>Дигар</value>
@@ -3722,23 +3740,17 @@
   <data name="checkLunch.Text" xml:space="preserve">
     <value> No</value>
   </data>
-  <data name="label18.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
+  <data name="dataGridViewTextBoxColumn1.Width" type="System.Int32, mscorlib">
+    <value>50</value>
   </data>
   <data name="label11.Size" type="System.Drawing.Size, System.Drawing">
     <value>1, 73</value>
-  </data>
-  <data name="&gt;&gt;textTrainer.Name" xml:space="preserve">
-    <value>textTrainer</value>
   </data>
   <data name="&gt;&gt;label31.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="comboCategory.Size" type="System.Drawing.Size, System.Drawing">
     <value>206, 30</value>
-  </data>
-  <data name="comboType.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12.5pt</value>
   </data>
   <data name="labelVillage.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
@@ -3752,11 +3764,11 @@
   <data name="tableLayoutPanel12.ColumnCount" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
-  <data name="label19.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 138</value>
+  <data name="tableLayoutPanel20.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
   </data>
   <data name="buttonSubmit.Size" type="System.Drawing.Size, System.Drawing">
-    <value>143, 41</value>
+    <value>142, 41</value>
   </data>
   <data name="&gt;&gt;buttonUpdate.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -3770,8 +3782,11 @@
   <data name="checkStationary.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Top</value>
   </data>
-  <data name="leble001.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
+  <data name="&gt;&gt;textBox3.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="textBox2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
   </data>
   <data name="&gt;&gt;label11.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -3809,8 +3824,8 @@
   <data name="&gt;&gt;label29.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;tableLayoutPanel13.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="LocationJamoat.Width" type="System.Int32, mscorlib">
+    <value>125</value>
   </data>
   <data name="textTrainer.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
@@ -3824,8 +3839,8 @@
   <data name="&gt;&gt;textAge.ZOrder" xml:space="preserve">
     <value>11</value>
   </data>
-  <data name="&gt;&gt;comboProject.Name" xml:space="preserve">
-    <value>comboProject</value>
+  <data name="&gt;&gt;textBox3.Parent" xml:space="preserve">
+    <value>tableLayoutPanel9</value>
   </data>
   <data name="dataGridViewTextBoxColumn16.HeaderText" xml:space="preserve">
     <value>Category</value>
@@ -3835,9 +3850,6 @@
   </data>
   <data name="tableLayoutPanel5.ColumnCount" type="System.Int32, mscorlib">
     <value>6</value>
-  </data>
-  <data name="textCategory.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel9.Name" xml:space="preserve">
     <value>tableLayoutPanel9</value>
@@ -3854,11 +3866,11 @@
   <data name="label14.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
-  <data name="tableLayoutPanel18.ColumnCount" type="System.Int32, mscorlib">
-    <value>1</value>
+  <data name="tableLayoutPanel12.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
   </data>
-  <data name="&gt;&gt;label15.ZOrder" xml:space="preserve">
-    <value>4</value>
+  <data name="checkLunch.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 2, 0, 0</value>
   </data>
   <data name="label15.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt, style=Bold</value>
@@ -3887,8 +3899,8 @@
   <data name="&gt;&gt;label23.Name" xml:space="preserve">
     <value>label23</value>
   </data>
-  <data name="label18.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
+  <data name="&gt;&gt;label16.Name" xml:space="preserve">
+    <value>label16</value>
   </data>
   <data name="SecondName.MinimumWidth" type="System.Int32, mscorlib">
     <value>6</value>
@@ -3914,6 +3926,9 @@
   <data name="label27.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="tableLayoutPanel8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>910, 0</value>
+  </data>
   <data name="labelVillage.Text" xml:space="preserve">
     <value>Village</value>
   </data>
@@ -3929,8 +3944,8 @@
   <data name="&gt;&gt;label16.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="&gt;&gt;textLocation2.Parent" xml:space="preserve">
-    <value>tableLayoutPanel6</value>
+  <data name="dataGridViewTextBoxColumn11.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel4.Parent" xml:space="preserve">
     <value>tableLayoutPanel1</value>
@@ -3950,8 +3965,8 @@
   <data name="&gt;&gt;checkLunch.Name" xml:space="preserve">
     <value>checkLunch</value>
   </data>
-  <data name="&gt;&gt;label11.Name" xml:space="preserve">
-    <value>label11</value>
+  <data name="tableLayoutPanel5.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
   </data>
   <data name="label18.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
@@ -3977,8 +3992,8 @@
   <data name="label9.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="&gt;&gt;label16.Parent" xml:space="preserve">
-    <value>tableLayoutPanel7</value>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1382, 1</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel13.Type" xml:space="preserve">
     <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -4001,6 +4016,9 @@
   <data name="textBox4.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
   </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
   <data name="textLocation.Size" type="System.Drawing.Size, System.Drawing">
     <value>206, 30</value>
   </data>
@@ -4012,9 +4030,6 @@
   </data>
   <data name="&gt;&gt;tableLayoutPanel14.Type" xml:space="preserve">
     <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="comboDistrict.Items2" xml:space="preserve">
-    <value>Дигар</value>
   </data>
   <data name="label34.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -4031,6 +4046,9 @@
   <data name="&gt;&gt;label27.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="label33.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
   <data name="tableLayoutPanel10.ColumnCount" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
@@ -4042,9 +4060,6 @@
   </data>
   <data name="&gt;&gt;comboJamoat.Parent" xml:space="preserve">
     <value>tableLayoutPanel11</value>
-  </data>
-  <data name="label20.Text" xml:space="preserve">
-    <value>Passport ID</value>
   </data>
   <data name="&gt;&gt;label2.Parent" xml:space="preserve">
     <value>tableLayoutPanel1</value>
@@ -4058,17 +4073,14 @@
   <data name="tableLayoutPanel6.RowCount" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;tableLayoutPanel19.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="comboTopic.Items1" xml:space="preserve">
+    <value>Технологияи парвариши картошка</value>
   </data>
-  <data name="&gt;&gt;comboTopic.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="&gt;&gt;tableLayoutPanel6.Parent" xml:space="preserve">
+    <value>tableLayoutPanel13</value>
   </data>
-  <data name="textTopic.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="comboTopic.Items4" xml:space="preserve">
-    <value>Дигар</value>
+  <data name="tableLayoutPanel10.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>10, 10, 10, 10</value>
   </data>
   <data name="label34.Location" type="System.Drawing.Point, System.Drawing">
     <value>484, 0</value>
@@ -4076,8 +4088,8 @@
   <data name="&gt;&gt;tableLayoutPanel8.Type" xml:space="preserve">
     <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;tableLayoutPanel2.Name" xml:space="preserve">
-    <value>tableLayoutPanel2</value>
+  <data name="&gt;&gt;tableLayoutPanel5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="label9.Text" xml:space="preserve">
     <value>Trainer</value>
@@ -4106,6 +4118,9 @@
   <data name="&gt;&gt;comboJamoat.Type" xml:space="preserve">
     <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="dataGridViewTextBoxColumn15.Width" type="System.Int32, mscorlib">
+    <value>125</value>
+  </data>
   <data name="comboLocation.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
@@ -4114,6 +4129,9 @@
   </data>
   <data name="&gt;&gt;textPhone.ZOrder" xml:space="preserve">
     <value>15</value>
+  </data>
+  <data name="label20.Size" type="System.Drawing.Size, System.Drawing">
+    <value>163, 46</value>
   </data>
   <data name="label18.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 92</value>
@@ -4136,23 +4154,14 @@
   <data name="pictureBox1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>Zoom</value>
   </data>
-  <data name="label19.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 5, 0, 0</value>
+  <data name="&gt;&gt;tableLayoutPanel14.Name" xml:space="preserve">
+    <value>tableLayoutPanel14</value>
   </data>
   <data name="&gt;&gt;SecondName.Type" xml:space="preserve">
     <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="tableLayoutPanel12.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="date_field.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Left</value>
-  </data>
   <data name="label14.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
-  </data>
-  <data name="date_field.Location" type="System.Drawing.Point, System.Drawing">
-    <value>349, 11</value>
   </data>
   <data name="&gt;&gt;label19.Parent" xml:space="preserve">
     <value>tableLayoutPanel7</value>
@@ -4169,14 +4178,14 @@
   <data name="tableLayoutPanel10.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 10</value>
   </data>
-  <data name="&gt;&gt;dataGridViewTextBoxColumn16.Name" xml:space="preserve">
-    <value>dataGridViewTextBoxColumn16</value>
+  <data name="tableLayoutPanel18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>212, 66</value>
   </data>
-  <data name="&gt;&gt;textCategory.Parent" xml:space="preserve">
-    <value>tableLayoutPanel14</value>
+  <data name="&gt;&gt;label25.Parent" xml:space="preserve">
+    <value>tableLayoutPanel7</value>
   </data>
-  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
-    <value>3</value>
+  <data name="&gt;&gt;tableLayoutPanel11.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="tableLayoutPanel13.RowCount" type="System.Int32, mscorlib">
     <value>6</value>
@@ -4205,8 +4214,8 @@
   <data name="dataGridViewTextBoxColumn12.Width" type="System.Int32, mscorlib">
     <value>140</value>
   </data>
-  <data name="&gt;&gt;btnTaj.Name" xml:space="preserve">
-    <value>btnTaj</value>
+  <data name="&gt;&gt;textBox4.Parent" xml:space="preserve">
+    <value>tableLayoutPanel9</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel16.ZOrder" xml:space="preserve">
     <value>4</value>
@@ -4247,8 +4256,8 @@
   <data name="comboCategory.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 3</value>
   </data>
-  <data name="textBox3.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12pt</value>
+  <data name="tableLayoutPanel8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>6, 423</value>
   </data>
   <data name="tableLayoutPanel9.Size" type="System.Drawing.Size, System.Drawing">
     <value>1, 365</value>
@@ -4262,8 +4271,8 @@
   <data name="tableLayoutPanel11.Size" type="System.Drawing.Size, System.Drawing">
     <value>385, 378</value>
   </data>
-  <data name="label34.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
+  <data name="&gt;&gt;tableLayoutPanel19.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="label9.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 5, 0, 0</value>
@@ -4276,6 +4285,9 @@
   </data>
   <data name="dataGridViewCheckBoxColumn1.Width" type="System.Int32, mscorlib">
     <value>120</value>
+  </data>
+  <data name="label28.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 235</value>
   </data>
   <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
     <value>1</value>
@@ -4295,8 +4307,8 @@
   <data name="&gt;&gt;textVillage.Parent" xml:space="preserve">
     <value>tableLayoutPanel11</value>
   </data>
-  <data name="tableLayoutPanel12.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
+  <data name="label7.Text" xml:space="preserve">
+    <value>Category of the event</value>
   </data>
   <data name="&gt;&gt;textParName2.ZOrder" xml:space="preserve">
     <value>0</value>
@@ -4304,23 +4316,20 @@
   <data name="&gt;&gt;label16.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="dataGridViewTextBoxColumn15.Width" type="System.Int32, mscorlib">
-    <value>125</value>
+  <data name="checkSupper.Location" type="System.Drawing.Point, System.Drawing">
+    <value>172, 238</value>
   </data>
   <data name="&gt;&gt;dataGridViewTextBoxColumn11.Name" xml:space="preserve">
     <value>dataGridViewTextBoxColumn11</value>
   </data>
-  <data name="tableLayoutPanel20.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
   <data name="&gt;&gt;label33.Name" xml:space="preserve">
     <value>label33</value>
   </data>
-  <data name="tableLayoutPanel18.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn2.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn2</value>
   </data>
-  <data name="label10.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
+  <data name="&gt;&gt;textTrainer.Name" xml:space="preserve">
+    <value>textTrainer</value>
   </data>
   <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -4340,8 +4349,8 @@
   <data name="label2.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
-  <data name="btnEng.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="textTrainer.Size" type="System.Drawing.Size, System.Drawing">
     <value>206, 30</value>
@@ -4361,11 +4370,17 @@
   <data name="&gt;&gt;checkLunch.Type" xml:space="preserve">
     <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="label26.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
+  <data name="tableLayoutPanel17.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="tableLayoutPanel16.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel6.ZOrder" xml:space="preserve">
     <value>10</value>
+  </data>
+  <data name="textPhone.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
   </data>
   <data name="label25.Size" type="System.Drawing.Size, System.Drawing">
     <value>163, 80</value>
@@ -4374,7 +4389,7 @@
     <value>1376, 375</value>
   </data>
   <data name="&gt;&gt;buttonUpdate.ZOrder" xml:space="preserve">
-    <value>0</value>
+    <value>4</value>
   </data>
   <data name="textParName2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12.5pt</value>
@@ -4391,8 +4406,8 @@
   <data name="&gt;&gt;textPassport.ZOrder" xml:space="preserve">
     <value>12</value>
   </data>
-  <data name="label28.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 235</value>
+  <data name="&gt;&gt;label15.ZOrder" xml:space="preserve">
+    <value>4</value>
   </data>
   <data name="textBox3.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 149</value>
@@ -4405,6 +4420,9 @@
   </data>
   <data name="textParName.Location" type="System.Drawing.Point, System.Drawing">
     <value>172, 49</value>
+  </data>
+  <data name="&gt;&gt;labelParticipant.Name" xml:space="preserve">
+    <value>labelParticipant</value>
   </data>
   <data name="label20.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 5, 0, 0</value>
@@ -4427,8 +4445,11 @@
   <data name="&gt;&gt;LocationJamoat.Name" xml:space="preserve">
     <value>LocationJamoat</value>
   </data>
-  <data name="&gt;&gt;label2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="label13.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 4, 0, 0</value>
+  </data>
+  <data name="tableLayoutPanel16.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="comboTrainer" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="textTrainer" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50" /&gt;&lt;Rows Styles="Percent,50,Percent,50,Absolute,20,Absolute,20" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="tableLayoutPanel14.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -4439,14 +4460,11 @@
   <data name="label8.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
-  <data name="&gt;&gt;tableLayoutPanel6.Parent" xml:space="preserve">
-    <value>tableLayoutPanel13</value>
+  <data name="tableLayoutPanel19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1382, 28</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
     <value>Project</value>
-  </data>
-  <data name="&gt;&gt;btnEng.Name" xml:space="preserve">
-    <value>btnEng</value>
   </data>
   <data name="&gt;&gt;checkStationary.Name" xml:space="preserve">
     <value>checkStationary</value>
@@ -4457,14 +4475,17 @@
   <data name="label8.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="&gt;&gt;label13.Name" xml:space="preserve">
-    <value>label13</value>
+  <data name="&gt;&gt;label6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label35.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
   </data>
   <data name="comboTrainer.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
   </data>
-  <data name="tableLayoutPanel12.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
+  <data name="&gt;&gt;AddressJumoat.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="textBox2.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 76</value>
@@ -4484,14 +4505,11 @@
   <data name="comboTopic.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
-  <data name="&gt;&gt;tableLayoutPanel11.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="&gt;&gt;leble001.Name" xml:space="preserve">
     <value>leble001</value>
   </data>
-  <data name="comboTopic.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
+  <data name="label24.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
   </data>
   <data name="textLocation2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -4514,8 +4532,8 @@
   <data name="label24.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
   </data>
-  <data name="&gt;&gt;labelParticipant.Name" xml:space="preserve">
-    <value>labelParticipant</value>
+  <data name="leble001.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 0, 0, 1</value>
   </data>
   <data name="&gt;&gt;label32.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -4523,8 +4541,8 @@
   <data name="&gt;&gt;label31.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
-  <data name="&gt;&gt;AddressJumoat.Type" xml:space="preserve">
-    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="textLocation2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
   </data>
   <data name="textAge.Size" type="System.Drawing.Size, System.Drawing">
     <value>210, 31</value>
@@ -4544,8 +4562,8 @@
   <data name="comboJamoat.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12.5pt</value>
   </data>
-  <data name="comboLocation.Items" xml:space="preserve">
-    <value>Лахш</value>
+  <data name="&gt;&gt;label24.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="tableLayoutPanel9.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -4556,23 +4574,17 @@
   <data name="pictureBox1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 14, 3</value>
   </data>
-  <data name="&gt;&gt;textBox3.Parent" xml:space="preserve">
-    <value>tableLayoutPanel9</value>
-  </data>
   <data name="label1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
   <data name="tableLayoutPanel9.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
-  <data name="textBox3.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
+  <data name="&gt;&gt;label14.ZOrder" xml:space="preserve">
+    <value>3</value>
   </data>
-  <data name="dataGridViewTextBoxColumn1.Width" type="System.Int32, mscorlib">
-    <value>50</value>
-  </data>
-  <data name="tableLayoutPanel16.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="comboTrainer" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="textTrainer" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50" /&gt;&lt;Rows Styles="Percent,50,Percent,50,Absolute,20,Absolute,20" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  <data name="AddressJumoat.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
   </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 53</value>
@@ -4589,8 +4601,8 @@
   <data name="label33.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="dataGridViewTextBoxColumn9.HeaderText" xml:space="preserve">
-    <value>Participant District</value>
+  <data name="tableLayoutPanel3.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
   </data>
   <data name="&gt;&gt;comboCategory.Parent" xml:space="preserve">
     <value>tableLayoutPanel14</value>
@@ -4611,10 +4623,10 @@
     <value>tableLayoutPanel6</value>
   </data>
   <data name="leble001.Location" type="System.Drawing.Point, System.Drawing">
-    <value>257, 0</value>
+    <value>246, 0</value>
   </data>
-  <data name="label23.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="date_field.Location" type="System.Drawing.Point, System.Drawing">
+    <value>338, 11</value>
   </data>
   <data name="label10.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -4622,14 +4634,11 @@
   <data name="&gt;&gt;tableLayoutPanel4.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1382, 1</value>
-  </data>
   <data name="comboType.Size" type="System.Drawing.Size, System.Drawing">
     <value>210, 33</value>
   </data>
-  <data name="textQR.Size" type="System.Drawing.Size, System.Drawing">
-    <value>210, 31</value>
+  <data name="buttonBack.Text" xml:space="preserve">
+    <value>BACK</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel5.Parent" xml:space="preserve">
     <value>tableLayoutPanel3</value>
@@ -4647,7 +4656,7 @@
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="buttonSubmit.Location" type="System.Drawing.Point, System.Drawing">
-    <value>194, 3</value>
+    <value>343, 3</value>
   </data>
   <data name="labelParticipant.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 5, 0, 0</value>
@@ -4655,17 +4664,20 @@
   <data name="&gt;&gt;textVillage.ZOrder" xml:space="preserve">
     <value>14</value>
   </data>
+  <data name="&gt;&gt;textBox5.Name" xml:space="preserve">
+    <value>textBox5</value>
+  </data>
   <data name="&gt;&gt;tableLayoutPanel10.Name" xml:space="preserve">
     <value>tableLayoutPanel10</value>
   </data>
-  <data name="&gt;&gt;dataGridViewTextBoxColumn5.Name" xml:space="preserve">
-    <value>dataGridViewTextBoxColumn5</value>
+  <data name="label11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 0</value>
   </data>
   <data name="label3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 3, 0, 3</value>
   </data>
-  <data name="textPhone.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
+  <data name="&gt;&gt;label32.ZOrder" xml:space="preserve">
+    <value>6</value>
   </data>
   <data name="&gt;&gt;label12.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -4691,20 +4703,20 @@
   <data name="checkLunch.Location" type="System.Drawing.Point, System.Drawing">
     <value>172, 191</value>
   </data>
-  <data name="trainingDataGridView.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 575</value>
+  <data name="label16.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 5, 0, 0</value>
   </data>
-  <data name="label33.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 0, 18, 0</value>
-  </data>
-  <data name="tableLayoutPanel19.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1382, 28</value>
+  <data name="leble001.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Bahnschrift, 13pt</value>
   </data>
   <data name="dataGridViewTextBoxColumn12.HeaderText" xml:space="preserve">
     <value>Accommodation</value>
   </data>
-  <data name="label20.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
+  <data name="tableLayoutPanel12.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="&gt;&gt;comboProject.Name" xml:space="preserve">
+    <value>comboProject</value>
   </data>
   <data name="tableLayoutPanel2.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 3</value>
@@ -4712,8 +4724,8 @@
   <data name="dataGridViewTextBoxColumn7.Width" type="System.Int32, mscorlib">
     <value>145</value>
   </data>
-  <data name="tableLayoutPanel8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>6, 423</value>
+  <data name="textBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
   </data>
   <data name="tableLayoutPanel2.ColumnCount" type="System.Int32, mscorlib">
     <value>5</value>
@@ -4727,8 +4739,8 @@
   <data name="&gt;&gt;labelVillage.Parent" xml:space="preserve">
     <value>tableLayoutPanel11</value>
   </data>
-  <data name="buttonEdit.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  <data name="dataGridViewTextBoxColumn9.HeaderText" xml:space="preserve">
+    <value>Participant District</value>
   </data>
   <data name="textParName.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12.5pt</value>
@@ -4739,8 +4751,8 @@
   <data name="&gt;&gt;labelVillage.Name" xml:space="preserve">
     <value>labelVillage</value>
   </data>
-  <data name="&gt;&gt;dataGridViewTextBoxColumn14.Type" xml:space="preserve">
-    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;label32.Name" xml:space="preserve">
+    <value>label32</value>
   </data>
   <data name="label32.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -4751,8 +4763,8 @@
   <data name="&gt;&gt;buttonPrint.Name" xml:space="preserve">
     <value>buttonPrint</value>
   </data>
-  <data name="tableLayoutPanel8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>910, 0</value>
+  <data name="tableLayoutPanel17.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
   </data>
   <data name="dataGridViewTextBoxColumn6.MinimumWidth" type="System.Int32, mscorlib">
     <value>6</value>
@@ -4763,8 +4775,8 @@
   <data name="tableLayoutPanel19.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
-  <data name="tableLayoutPanel7.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>16, 10, 20, 11</value>
+  <data name="label28.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 5, 0, 0</value>
   </data>
   <data name="&gt;&gt;date_field.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -4784,8 +4796,8 @@
   <data name="&gt;&gt;label17.Name" xml:space="preserve">
     <value>label17</value>
   </data>
-  <data name="btn_add.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1152, 3</value>
+  <data name="tableLayoutPanel12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
   </data>
   <data name="label9.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 330</value>
@@ -4799,8 +4811,8 @@
   <data name="textLocation.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
-  <data name="comboDistrict.Size" type="System.Drawing.Size, System.Drawing">
-    <value>210, 33</value>
+  <data name="&gt;&gt;label21.ZOrder" xml:space="preserve">
+    <value>8</value>
   </data>
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
     <value>3</value>
@@ -4808,8 +4820,8 @@
   <data name="label17.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 5, 0, 0</value>
   </data>
-  <data name="label5.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 5, 0, 0</value>
+  <data name="dataGridViewTextBoxColumn4.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
   </data>
   <data name="label15.Size" type="System.Drawing.Size, System.Drawing">
     <value>1, 73</value>
@@ -4817,8 +4829,8 @@
   <data name="&gt;&gt;tableLayoutPanel18.Name" xml:space="preserve">
     <value>tableLayoutPanel18</value>
   </data>
-  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1382, 1</value>
+  <data name="dataGridViewTextBoxColumn17.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel3.ZOrder" xml:space="preserve">
     <value>5</value>
@@ -4841,20 +4853,17 @@
   <data name="textBox5.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
   </data>
-  <data name="&gt;&gt;textBox4.Name" xml:space="preserve">
-    <value>textBox4</value>
+  <data name="label21.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 230</value>
   </data>
-  <data name="label29.Text" xml:space="preserve">
-    <value>Stationary</value>
+  <data name="tableLayoutPanel13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 10</value>
   </data>
   <data name="&gt;&gt;labelVillage.ZOrder" xml:space="preserve">
     <value>13</value>
   </data>
-  <data name="comboDistrict.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="tableLayoutPanel17.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 0, 0, 0</value>
+  <data name="textBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
   </data>
   <data name="tableLayoutPanel5.Size" type="System.Drawing.Size, System.Drawing">
     <value>1382, 423</value>
@@ -4871,8 +4880,8 @@
   <data name="dataGridViewTextBoxColumn5.MinimumWidth" type="System.Int32, mscorlib">
     <value>6</value>
   </data>
-  <data name="&gt;&gt;tableLayoutPanel13.Parent" xml:space="preserve">
-    <value>tableLayoutPanel5</value>
+  <data name="label23.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="label29.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 5, 0, 0</value>
@@ -4894,9 +4903,6 @@
   </data>
   <data name="&gt;&gt;comboLocation2.Name" xml:space="preserve">
     <value>comboLocation2</value>
-  </data>
-  <data name="tableLayoutPanel13.Location" type="System.Drawing.Point, System.Drawing">
-    <value>14, 10</value>
   </data>
   <data name="label19.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -5091,8 +5097,8 @@
   <data name="&gt;&gt;label25.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="comboLocation2.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
   </data>
   <data name="tableLayoutPanel9.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="label11" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label12" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label13" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label14" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label15" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="textBox1" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textBox2" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textBox3" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textBox4" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textBox5" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,53,Percent,47" /&gt;&lt;Rows Styles="Percent,20,Percent,20,Percent,20,Percent,20,Percent,20" /&gt;&lt;/TableLayoutSettings&gt;</value>
@@ -5106,20 +5112,17 @@
   <data name="&gt;&gt;label26.Name" xml:space="preserve">
     <value>label26</value>
   </data>
-  <data name="textParName2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>210, 31</value>
+  <data name="btn_add.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1152, 3</value>
   </data>
   <data name="&gt;&gt;comboType.Parent" xml:space="preserve">
     <value>tableLayoutPanel17</value>
   </data>
-  <data name="checkLunch.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>6, 2, 0, 0</value>
+  <data name="textCategory.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
   </data>
   <data name="comboTrainer.Items" xml:space="preserve">
     <value>Тест Тест</value>
-  </data>
-  <data name="label23.Text" xml:space="preserve">
-    <value>Accommodation</value>
   </data>
   <data name="checkStationary.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -5130,14 +5133,14 @@
   <data name="labelParticipant.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
-  <data name="textAge.TabIndex" type="System.Int32, mscorlib">
-    <value>18</value>
+  <data name="tableLayoutPanel6.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
   </data>
   <data name="label10.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Left</value>
   </data>
-  <data name="labelVillage.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 94</value>
+  <data name="tableLayoutPanel3.RowCount" type="System.Int32, mscorlib">
+    <value>3</value>
   </data>
   <data name="label17.Size" type="System.Drawing.Size, System.Drawing">
     <value>163, 46</value>
@@ -5150,9 +5153,6 @@
   </data>
   <data name="textPhone.Location" type="System.Drawing.Point, System.Drawing">
     <value>172, 279</value>
-  </data>
-  <data name="tableLayoutPanel13.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="label5" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label6" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel18" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label9" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel16" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label8" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel15" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel14" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label7" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label31" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel6" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel20" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,53,Percent,47" /&gt;&lt;Rows Styles="Percent,16,66667,Percent,16,66667,Percent,16,66667,Percent,16,66667,Percent,16,66667,Percent,16,66667,Absolute,20" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <metadata name="SecondName.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>

@@ -137,11 +137,14 @@
   <data name="e_labelVillage.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
+  <data name="&gt;&gt;label18.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
   <data name="tableLayoutPanel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
-  <data name="tableLayoutPanel11.Location" type="System.Drawing.Point, System.Drawing">
-    <value>552, 10</value>
+  <data name="buttonPrint.Text" xml:space="preserve">
+    <value>SURCH</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="e_textAccommodation.TabIndex" type="System.Int32, mscorlib">
@@ -150,20 +153,26 @@
   <data name="e_textPhone.MaxLength" type="System.Int32, mscorlib">
     <value>9</value>
   </data>
+  <data name="e_textParName2.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
   <data name="&gt;&gt;e_checkLunch.ZOrder" xml:space="preserve">
     <value>11</value>
   </data>
   <data name="label18.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;label16.ZOrder" xml:space="preserve">
-    <value>3</value>
+  <data name="label22.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
   </data>
   <data name="label25.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopRight</value>
   </data>
   <data name="label20.Text" xml:space="preserve">
     <value>Passport ID</value>
+  </data>
+  <data name="&gt;&gt;label22.Name" xml:space="preserve">
+    <value>label22</value>
   </data>
   <data name="e_textOther.Size" type="System.Drawing.Size, System.Drawing">
     <value>274, 26</value>
@@ -174,9 +183,6 @@
   <data name="label22.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 5, 0, 0</value>
   </data>
-  <data name="&gt;&gt;e_textAge.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="&gt;&gt;label25.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -185,6 +191,9 @@
   </data>
   <data name="&gt;&gt;idField.ZOrder" xml:space="preserve">
     <value>1</value>
+  </data>
+  <data name="e_comboDistrict.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12.5pt</value>
   </data>
   <data name="&gt;&gt;label26.ZOrder" xml:space="preserve">
     <value>12</value>
@@ -213,8 +222,8 @@
   <data name="label29.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
   </data>
-  <data name="&gt;&gt;e_comboType.Name" xml:space="preserve">
-    <value>e_comboType</value>
+  <data name="label3.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
   </data>
   <data name="closeBtn.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -222,11 +231,8 @@
   <data name="tableLayoutPanel7.RowCount" type="System.Int32, mscorlib">
     <value>8</value>
   </data>
-  <data name="e_labelVillage.Text" xml:space="preserve">
-    <value>Village</value>
-  </data>
-  <data name="buttonPrint.Text" xml:space="preserve">
-    <value>SURCH</value>
+  <data name="e_textPhone.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
   </data>
   <data name="&gt;&gt;label27.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -234,11 +240,14 @@
   <data name="label21.Text" xml:space="preserve">
     <value>Age</value>
   </data>
+  <data name="label19.Text" xml:space="preserve">
+    <value>Gender</value>
+  </data>
   <data name="&gt;&gt;label24.Name" xml:space="preserve">
     <value>label24</value>
   </data>
-  <data name="&gt;&gt;label27.Parent" xml:space="preserve">
-    <value>tableLayoutPanel11</value>
+  <data name="label25.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 5, 0, 0</value>
   </data>
   <data name="label21.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -249,8 +258,8 @@
   <data name="label24.Text" xml:space="preserve">
     <value>District</value>
   </data>
-  <data name="e_comboDistrict.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
+  <data name="&gt;&gt;e_checkLunch.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="e_textPhone.Location" type="System.Drawing.Point, System.Drawing">
     <value>223, 261</value>
@@ -258,14 +267,14 @@
   <data name="e_checkCoffee.Text" xml:space="preserve">
     <value> No</value>
   </data>
-  <data name="closeBtn.Location" type="System.Drawing.Point, System.Drawing">
-    <value>905, 4</value>
-  </data>
   <data name="tableLayoutPanel2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
   <data name="e_checkCoffee.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12.5pt</value>
+  </data>
+  <data name="&gt;&gt;label24.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="label1.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -285,9 +294,6 @@
   <data name="&gt;&gt;e_comboDistrict.Parent" xml:space="preserve">
     <value>tableLayoutPanel11</value>
   </data>
-  <data name="&gt;&gt;tableLayoutPanel3.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
   <data name="&gt;&gt;e_comboType.Parent" xml:space="preserve">
     <value>tableLayoutPanel17</value>
   </data>
@@ -297,17 +303,20 @@
   <data name="tableLayoutPanel4.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 20</value>
   </data>
+  <data name="label29.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
   <data name="&gt;&gt;e_textAccommodation.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelParticipant.Name" xml:space="preserve">
     <value>labelParticipant</value>
   </data>
-  <data name="label17.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="label25.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
   </data>
-  <data name="label29.Size" type="System.Drawing.Size, System.Drawing">
-    <value>214, 43</value>
+  <data name="label17.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
   </data>
   <data name="label20.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -348,14 +357,11 @@
   <data name="tableLayoutPanel5.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 476</value>
   </data>
-  <data name="e_textPassport.Size" type="System.Drawing.Size, System.Drawing">
-    <value>274, 26</value>
+  <data name="&gt;&gt;e_checkStationary.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;e_textPhone.Name" xml:space="preserve">
-    <value>e_textPhone</value>
-  </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="tableLayoutPanel11.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
   </data>
   <data name="label26.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -417,6 +423,9 @@
   <data name="e_comboGender.Items" xml:space="preserve">
     <value>Мард</value>
   </data>
+  <data name="e_textQR.Location" type="System.Drawing.Point, System.Drawing">
+    <value>223, 3</value>
+  </data>
   <data name="&gt;&gt;tableLayoutPanel17.Type" xml:space="preserve">
     <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -432,20 +441,20 @@
   <data name="e_checkStationary.Location" type="System.Drawing.Point, System.Drawing">
     <value>223, 218</value>
   </data>
-  <data name="&gt;&gt;e_textPhone.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="e_checkLunch.Size" type="System.Drawing.Size, System.Drawing">
     <value>274, 26</value>
   </data>
   <data name="e_textParName.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
-  <data name="&gt;&gt;applyBtn.Parent" xml:space="preserve">
-    <value>tableLayoutPanel5</value>
+  <data name="tableLayoutPanel7.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="e_textParName2" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="labelParticipant" Row="6" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label25" Row="7" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label16" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label17" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label18" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label19" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label20" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label21" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="e_textQR" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="e_textParName" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="e_textAge" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="e_textPassport" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="e_comboGender" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel17" Row="7" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="e_textPhone" Row="6" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,44,Percent,56" /&gt;&lt;Rows Styles="Percent,11,66408,Percent,11,66407,Percent,11,66407,Percent,11,66407,Percent,11,66407,Percent,11,66407,Percent,11,66786,Percent,18,34771" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="e_checkLunch.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
+  </data>
+  <data name="label27.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
   </data>
   <data name="tableLayoutPanel11.Size" type="System.Drawing.Size, System.Drawing">
     <value>500, 349</value>
@@ -465,9 +474,6 @@
   <data name="tableLayoutPanel2.Location" type="System.Drawing.Point, System.Drawing">
     <value>18, 74</value>
   </data>
-  <data name="e_comboJamoat.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
   <data name="e_textPassport.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12.5pt</value>
   </data>
@@ -476,9 +482,6 @@
   </data>
   <data name="label28.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 215</value>
-  </data>
-  <data name="&gt;&gt;label20.Parent" xml:space="preserve">
-    <value>tableLayoutPanel7</value>
   </data>
   <data name="label19.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -495,8 +498,8 @@
   <data name="&gt;&gt;label19.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="tableLayoutPanel2.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="tableLayoutPanel11" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel7" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50,Percent,50" /&gt;&lt;Rows Styles="Percent,50" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  <data name="e_textVillage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>223, 89</value>
   </data>
   <data name="label28.Size" type="System.Drawing.Size, System.Drawing">
     <value>214, 43</value>
@@ -528,17 +531,11 @@
   <data name="e_checkLunch.Location" type="System.Drawing.Point, System.Drawing">
     <value>223, 175</value>
   </data>
-  <data name="idField.Location" type="System.Drawing.Point, System.Drawing">
-    <value>763, 5</value>
-  </data>
   <data name="label16.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="&gt;&gt;e_comboJamoat.Type" xml:space="preserve">
     <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="buttonPrint.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 3</value>
   </data>
   <data name="label17.Text" xml:space="preserve">
     <value>First Name</value>
@@ -558,20 +555,14 @@
   <data name="&gt;&gt;e_textAge.Name" xml:space="preserve">
     <value>e_textAge</value>
   </data>
-  <data name="&gt;&gt;e_labelVillage.Parent" xml:space="preserve">
-    <value>tableLayoutPanel11</value>
-  </data>
   <data name="deleteBtn.Location" type="System.Drawing.Point, System.Drawing">
     <value>573, 4</value>
   </data>
   <data name="tableLayoutPanel17.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="e_comboType" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="e_textOther" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50" /&gt;&lt;Rows Styles="Percent,50,Percent,50" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
-  <data name="tableLayoutPanel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1072, 394</value>
-  </data>
-  <data name="label20.Size" type="System.Drawing.Size, System.Drawing">
-    <value>214, 43</value>
+  <data name="&gt;&gt;e_textTransportCost.ZOrder" xml:space="preserve">
+    <value>7</value>
   </data>
   <data name="&gt;&gt;e_comboGender.Type" xml:space="preserve">
     <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -584,6 +575,9 @@
   </data>
   <data name="e_comboDistrict.Items2" xml:space="preserve">
     <value>Дигар</value>
+  </data>
+  <data name="tableLayoutPanel17.ColumnCount" type="System.Int32, mscorlib">
+    <value>1</value>
   </data>
   <data name="&gt;&gt;label16.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -609,6 +603,9 @@
   <data name="&gt;&gt;tableLayoutPanel5.Name" xml:space="preserve">
     <value>tableLayoutPanel5</value>
   </data>
+  <data name="&gt;&gt;e_checkCoffee.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="label26.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 5, 0, 0</value>
   </data>
@@ -624,8 +621,8 @@
   <data name="label3.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
   </data>
-  <data name="&gt;&gt;e_checkLunch.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;label20.Parent" xml:space="preserve">
+    <value>tableLayoutPanel7</value>
   </data>
   <data name="&gt;&gt;idField.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -636,8 +633,14 @@
   <data name="label27.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopRight</value>
   </data>
-  <data name="label16.Size" type="System.Drawing.Size, System.Drawing">
-    <value>214, 43</value>
+  <data name="e_textQR.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="label24.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopRight</value>
+  </data>
+  <data name="idField.MaxLength" type="System.Int32, mscorlib">
+    <value>3</value>
   </data>
   <data name="&gt;&gt;e_labelVillage.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -657,9 +660,6 @@
   <data name="e_textParName.Location" type="System.Drawing.Point, System.Drawing">
     <value>223, 46</value>
   </data>
-  <data name="idField.MaxLength" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
   <data name="&gt;&gt;e_textTransportCost.Name" xml:space="preserve">
     <value>e_textTransportCost</value>
   </data>
@@ -669,8 +669,14 @@
   <data name="label18.Text" xml:space="preserve">
     <value>Last Name</value>
   </data>
+  <data name="e_labelVillage.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopRight</value>
+  </data>
   <data name="label25.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 301</value>
+  </data>
+  <data name="e_comboType.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
   </data>
   <data name="label23.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
@@ -678,8 +684,8 @@
   <data name="label27.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 5, 0, 0</value>
   </data>
-  <data name="buttonPrint.Size" type="System.Drawing.Size, System.Drawing">
-    <value>144, 36</value>
+  <data name="&gt;&gt;label16.ZOrder" xml:space="preserve">
+    <value>3</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel7.Parent" xml:space="preserve">
     <value>tableLayoutPanel2</value>
@@ -689,6 +695,9 @@
   </data>
   <data name="tableLayoutPanel17.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
+  </data>
+  <data name="&gt;&gt;label25.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
   <data name="&gt;&gt;label18.Parent" xml:space="preserve">
     <value>tableLayoutPanel7</value>
@@ -726,8 +735,8 @@
   <data name="tableLayoutPanel11.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>16, 10, 20, 35</value>
   </data>
-  <data name="label19.Text" xml:space="preserve">
-    <value>Gender</value>
+  <data name="tableLayoutPanel5.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
   </data>
   <data name="e_checkStationary.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12.5pt</value>
@@ -744,17 +753,20 @@
   <data name="label19.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 5, 0, 0</value>
   </data>
+  <data name="label18.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopRight</value>
+  </data>
   <data name="e_textPhone.Size" type="System.Drawing.Size, System.Drawing">
     <value>274, 26</value>
   </data>
   <data name="&gt;&gt;e_textPassport.Parent" xml:space="preserve">
     <value>tableLayoutPanel7</value>
   </data>
-  <data name="&gt;&gt;applyBtn.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 471</value>
+  </data>
+  <data name="label28.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopRight</value>
   </data>
   <data name="&gt;&gt;applyBtn.Name" xml:space="preserve">
     <value>applyBtn</value>
@@ -780,8 +792,8 @@
   <data name="&gt;&gt;tableLayoutPanel1.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="e_textAge.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12.5pt</value>
+  <data name="label16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>214, 43</value>
   </data>
   <data name="e_textAge.Size" type="System.Drawing.Size, System.Drawing">
     <value>274, 26</value>
@@ -803,6 +815,9 @@
   </data>
   <data name="labelParticipant.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="&gt;&gt;e_textVillage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
     <value>1150, 1</value>
@@ -843,17 +858,14 @@
   <data name="label17.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopRight</value>
   </data>
-  <data name="label22.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12pt</value>
+  <data name="&gt;&gt;applyBtn.Parent" xml:space="preserve">
+    <value>tableLayoutPanel5</value>
   </data>
   <data name="label22.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopRight</value>
   </data>
   <data name="e_checkStationary.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Top</value>
-  </data>
-  <data name="e_textAge.TabIndex" type="System.Int32, mscorlib">
-    <value>18</value>
   </data>
   <data name="label26.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -879,8 +891,8 @@
   <data name="e_textTransportCost.Size" type="System.Drawing.Size, System.Drawing">
     <value>274, 26</value>
   </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>EditForm</value>
+  <data name="tableLayoutPanel3.RowCount" type="System.Int32, mscorlib">
+    <value>2</value>
   </data>
   <data name="&gt;&gt;label26.Name" xml:space="preserve">
     <value>label26</value>
@@ -891,17 +903,11 @@
   <data name="&gt;&gt;label28.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
-  <data name="&gt;&gt;idField.Name" xml:space="preserve">
-    <value>idField</value>
-  </data>
-  <data name="closeBtn.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9pt</value>
-  </data>
   <data name="label26.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
   </data>
-  <data name="&gt;&gt;e_checkStationary.ZOrder" xml:space="preserve">
-    <value>8</value>
+  <data name="label23.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 301</value>
   </data>
   <data name="e_labelVillage.Size" type="System.Drawing.Size, System.Drawing">
     <value>214, 43</value>
@@ -915,11 +921,8 @@
   <data name="label27.Text" xml:space="preserve">
     <value>Lunch</value>
   </data>
-  <data name="label25.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 5, 0, 0</value>
-  </data>
-  <data name="&gt;&gt;label19.Parent" xml:space="preserve">
-    <value>tableLayoutPanel7</value>
+  <data name="tableLayoutPanel2.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="tableLayoutPanel11" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel7" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50,Percent,50" /&gt;&lt;Rows Styles="Percent,50" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="label24.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 5, 0, 0</value>
@@ -929,6 +932,9 @@
   </data>
   <data name="label16.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 0</value>
+  </data>
+  <data name="&gt;&gt;e_textQR.Parent" xml:space="preserve">
+    <value>tableLayoutPanel7</value>
   </data>
   <data name="label16.Text" xml:space="preserve">
     <value>Participant ID (QR)</value>
@@ -947,6 +953,9 @@
   </data>
   <data name="&gt;&gt;tableLayoutPanel2.Type" xml:space="preserve">
     <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tableLayoutPanel11.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="e_comboJamoat" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="e_comboDistrict" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label24" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label22" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="e_textAccommodation" Row="7" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label23" Row="7" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label29" Row="6" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="e_textTransportCost" Row="6" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="e_checkStationary" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label28" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label27" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="e_checkLunch" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label26" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="e_checkCoffee" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="e_labelVillage" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="e_textVillage" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,44,Percent,56" /&gt;&lt;Rows Styles="Percent,12,53455,Percent,12,53455,Percent,12,53455,Percent,12,53455,Percent,12,53455,Percent,12,53455,Percent,12,53455,Percent,12,25814,Absolute,20" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="tableLayoutPanel3.Size" type="System.Drawing.Size, System.Drawing">
     <value>1144, 63</value>
@@ -969,6 +978,9 @@
   <data name="label23.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
+  <data name="e_textVillage.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
   <data name="e_comboDistrict.Location" type="System.Drawing.Point, System.Drawing">
     <value>223, 3</value>
   </data>
@@ -984,11 +996,14 @@
   <data name="label22.Size" type="System.Drawing.Size, System.Drawing">
     <value>214, 43</value>
   </data>
-  <data name="label17.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
+  <data name="tableLayoutPanel11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>552, 10</value>
   </data>
   <data name="&gt;&gt;idField.Parent" xml:space="preserve">
     <value>tableLayoutPanel4</value>
+  </data>
+  <data name="e_textVillage.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12.5pt</value>
   </data>
   <data name="label17.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -996,8 +1011,8 @@
   <data name="e_checkCoffee.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="label28.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12pt</value>
+  <data name="e_comboJamoat.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 28</value>
   </data>
   <data name="e_textOther.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 39</value>
@@ -1007,9 +1022,6 @@
   </data>
   <data name="&gt;&gt;e_comboJamoat.ZOrder" xml:space="preserve">
     <value>0</value>
-  </data>
-  <data name="&gt;&gt;deleteBtn.Name" xml:space="preserve">
-    <value>deleteBtn</value>
   </data>
   <data name="&gt;&gt;label20.Name" xml:space="preserve">
     <value>label20</value>
@@ -1032,11 +1044,11 @@
   <data name="e_comboDistrict.Items1" xml:space="preserve">
     <value>Муминобод</value>
   </data>
-  <data name="tableLayoutPanel2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>18, 0, 60, 0</value>
-  </data>
-  <data name="tableLayoutPanel5.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+  <data name="e_comboDistrict.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
+  </data>
+  <data name="&gt;&gt;e_checkStationary.ZOrder" xml:space="preserve">
+    <value>8</value>
   </data>
   <data name="label28.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -1053,8 +1065,8 @@
   <data name="tableLayoutPanel3.ColumnCount" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
-  <data name="tableLayoutPanel7.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="e_textParName2" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="labelParticipant" Row="6" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label25" Row="7" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label16" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label17" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label18" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label19" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label20" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label21" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="e_textQR" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="e_textParName" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="e_textAge" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="e_textPassport" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="e_comboGender" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel17" Row="7" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="e_textPhone" Row="6" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,44,Percent,56" /&gt;&lt;Rows Styles="Percent,11.66408,Percent,11.66407,Percent,11.66407,Percent,11.66407,Percent,11.66407,Percent,11.66407,Percent,11.66786,Percent,18.34771" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  <data name="&gt;&gt;idField.Name" xml:space="preserve">
+    <value>idField</value>
   </data>
   <data name="idField.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 5, 3, 3</value>
@@ -1068,11 +1080,8 @@
   <data name="&gt;&gt;label3.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="tableLayoutPanel4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 0, 0, 0</value>
-  </data>
-  <data name="&gt;&gt;tableLayoutPanel7.ZOrder" xml:space="preserve">
-    <value>1</value>
+  <data name="label25.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
   </data>
   <data name="deleteBtn.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 3</value>
@@ -1080,8 +1089,11 @@
   <data name="&gt;&gt;label27.Name" xml:space="preserve">
     <value>label27</value>
   </data>
-  <data name="&gt;&gt;tableLayoutPanel4.Parent" xml:space="preserve">
-    <value>tableLayoutPanel3</value>
+  <data name="&gt;&gt;labelParticipant.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label23.ZOrder" xml:space="preserve">
+    <value>5</value>
   </data>
   <data name="&gt;&gt;label3.Name" xml:space="preserve">
     <value>label3</value>
@@ -1092,8 +1104,8 @@
   <data name="deleteBtn.Text" xml:space="preserve">
     <value>DELETE ROW</value>
   </data>
-  <data name="e_comboType.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 3</value>
+  <data name="&gt;&gt;tableLayoutPanel4.Parent" xml:space="preserve">
+    <value>tableLayoutPanel3</value>
   </data>
   <data name="label3.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1110,8 +1122,8 @@
   <data name="tableLayoutPanel5.Size" type="System.Drawing.Size, System.Drawing">
     <value>1144, 88</value>
   </data>
-  <data name="tableLayoutPanel11.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="e_comboJamoat" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="e_comboDistrict" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label24" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label22" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="e_textAccommodation" Row="7" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label23" Row="7" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label29" Row="6" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="e_textTransportCost" Row="6" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="e_checkStationary" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label28" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label27" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="e_checkLunch" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label26" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="e_checkCoffee" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="e_labelVillage" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="e_textVillage" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,44,Percent,56" /&gt;&lt;Rows Styles="Percent,12.53455,Percent,12.53455,Percent,12.53455,Percent,12.53455,Percent,12.53455,Percent,12.53455,Percent,12.53455,Percent,12.25814,Absolute,20" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  <data name="&gt;&gt;e_textPhone.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="tableLayoutPanel17.RowCount" type="System.Int32, mscorlib">
     <value>2</value>
@@ -1131,6 +1143,9 @@
   <data name="applyBtn.Size" type="System.Drawing.Size, System.Drawing">
     <value>160, 46</value>
   </data>
+  <data name="e_labelVillage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 86</value>
+  </data>
   <data name="label29.Text" xml:space="preserve">
     <value>Transport cost</value>
   </data>
@@ -1146,17 +1161,17 @@
   <data name="&gt;&gt;e_textParName2.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="buttonPrint.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
   <data name="e_textTransportCost.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
-  <data name="label3.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
+  <data name="tableLayoutPanel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1072, 394</value>
   </data>
-  <data name="&gt;&gt;e_textVillage.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="e_textPassport.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
+  <data name="tableLayoutPanel4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
   </data>
   <data name="label17.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1191,8 +1206,8 @@
   <data name="e_textParName.Size" type="System.Drawing.Size, System.Drawing">
     <value>274, 26</value>
   </data>
-  <data name="label29.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
+  <data name="e_textAge.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12.5pt</value>
   </data>
   <data name="tableLayoutPanel11.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -1200,14 +1215,11 @@
   <data name="&gt;&gt;e_checkCoffee.Parent" xml:space="preserve">
     <value>tableLayoutPanel11</value>
   </data>
-  <data name="&gt;&gt;e_checkStationary.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>EditForm</value>
   </data>
-  <data name="&gt;&gt;tableLayoutPanel11.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="tableLayoutPanel3.RowCount" type="System.Int32, mscorlib">
-    <value>2</value>
+  <data name="&gt;&gt;e_textAge.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
     <value>0</value>
@@ -1217,9 +1229,6 @@
   </data>
   <data name="label24.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
-  </data>
-  <data name="idField.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
   </data>
   <data name="e_textParName2.Size" type="System.Drawing.Size, System.Drawing">
     <value>274, 26</value>
@@ -1254,20 +1263,17 @@
   <data name="tableLayoutPanel3.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
-  <data name="idField.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 14pt</value>
-  </data>
   <data name="&gt;&gt;tableLayoutPanel4.Type" xml:space="preserve">
     <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;e_checkStationary.Name" xml:space="preserve">
     <value>e_checkStationary</value>
   </data>
-  <data name="e_textVillage.Location" type="System.Drawing.Point, System.Drawing">
-    <value>223, 89</value>
+  <data name="&gt;&gt;closeBtn.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
-  <data name="&gt;&gt;e_comboJamoat.Name" xml:space="preserve">
-    <value>e_comboJamoat</value>
+  <data name="&gt;&gt;label21.Name" xml:space="preserve">
+    <value>label21</value>
   </data>
   <data name="e_textQR.Size" type="System.Drawing.Size, System.Drawing">
     <value>274, 26</value>
@@ -1296,17 +1302,14 @@
   <data name="&gt;&gt;tableLayoutPanel11.Name" xml:space="preserve">
     <value>tableLayoutPanel11</value>
   </data>
-  <data name="e_textPhone.TabIndex" type="System.Int32, mscorlib">
-    <value>19</value>
+  <data name="label20.Size" type="System.Drawing.Size, System.Drawing">
+    <value>214, 43</value>
   </data>
   <data name="&gt;&gt;e_textParName2.Name" xml:space="preserve">
     <value>e_textParName2</value>
   </data>
   <data name="e_textOther.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
-  </data>
-  <data name="&gt;&gt;tableLayoutPanel5.ZOrder" xml:space="preserve">
-    <value>4</value>
   </data>
   <data name="&gt;&gt;label22.Parent" xml:space="preserve">
     <value>tableLayoutPanel11</value>
@@ -1335,8 +1338,11 @@
   <data name="tableLayoutPanel4.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
   </data>
-  <data name="&gt;&gt;label22.Name" xml:space="preserve">
-    <value>label22</value>
+  <data name="&gt;&gt;tableLayoutPanel5.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label25.Size" type="System.Drawing.Size, System.Drawing">
+    <value>214, 72</value>
   </data>
   <data name="&gt;&gt;label22.ZOrder" xml:space="preserve">
     <value>3</value>
@@ -1350,17 +1356,20 @@
   <data name="label17.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 5, 0, 0</value>
   </data>
-  <data name="label23.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 301</value>
+  <data name="label28.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
   </data>
   <data name="label19.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopRight</value>
   </data>
-  <data name="tableLayoutPanel17.ColumnCount" type="System.Int32, mscorlib">
-    <value>1</value>
+  <data name="label29.Size" type="System.Drawing.Size, System.Drawing">
+    <value>214, 43</value>
   </data>
   <data name="tableLayoutPanel5.RowCount" type="System.Int32, mscorlib">
     <value>2</value>
+  </data>
+  <data name="label17.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
   </data>
   <data name="label24.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -1374,26 +1383,29 @@
   <data name="applyBtn.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 9pt</value>
   </data>
-  <data name="&gt;&gt;tableLayoutPanel2.ZOrder" xml:space="preserve">
-    <value>1</value>
+  <data name="&gt;&gt;label28.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="tableLayoutPanel2.ColumnCount" type="System.Int32, mscorlib">
-    <value>2</value>
+  <data name="e_comboType.Items1" xml:space="preserve">
+    <value>Агроном</value>
   </data>
-  <data name="e_textAge.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
+  <data name="&gt;&gt;tableLayoutPanel3.ZOrder" xml:space="preserve">
+    <value>3</value>
   </data>
   <data name="&gt;&gt;e_textTransportCost.Parent" xml:space="preserve">
     <value>tableLayoutPanel11</value>
   </data>
-  <data name="e_textParName2.TabIndex" type="System.Int32, mscorlib">
-    <value>15</value>
+  <data name="&gt;&gt;applyBtn.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <data name="e_textOther.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
   <data name="e_comboDistrict.Items" xml:space="preserve">
     <value>Лахш</value>
+  </data>
+  <data name="e_comboGender.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
   </data>
   <data name="e_checkLunch.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12.5pt</value>
@@ -1418,9 +1430,6 @@
   </data>
   <data name="&gt;&gt;e_textAge.ZOrder" xml:space="preserve">
     <value>11</value>
-  </data>
-  <data name="&gt;&gt;closeBtn.Name" xml:space="preserve">
-    <value>closeBtn</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel1.ZOrder" xml:space="preserve">
     <value>0</value>
@@ -1449,11 +1458,11 @@
   <data name="label16.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
   </data>
-  <data name="label24.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>TopRight</value>
+  <data name="&gt;&gt;e_textPhone.Name" xml:space="preserve">
+    <value>e_textPhone</value>
   </data>
-  <data name="e_comboJamoat.Size" type="System.Drawing.Size, System.Drawing">
-    <value>274, 28</value>
+  <data name="&gt;&gt;e_comboJamoat.Name" xml:space="preserve">
+    <value>e_comboJamoat</value>
   </data>
   <data name="e_textQR.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -1476,8 +1485,8 @@
   <data name="label27.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
   </data>
-  <data name="&gt;&gt;label27.ZOrder" xml:space="preserve">
-    <value>10</value>
+  <data name="&gt;&gt;tableLayoutPanel7.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel3.Name" xml:space="preserve">
     <value>tableLayoutPanel3</value>
@@ -1485,8 +1494,8 @@
   <data name="tableLayoutPanel11.ColumnCount" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
-  <data name="label25.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
+  <data name="&gt;&gt;e_labelVillage.Parent" xml:space="preserve">
+    <value>tableLayoutPanel11</value>
   </data>
   <data name="&gt;&gt;label2.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1494,13 +1503,10 @@
   <data name="&gt;&gt;tableLayoutPanel5.Parent" xml:space="preserve">
     <value>tableLayoutPanel1</value>
   </data>
-  <data name="label20.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>TopRight</value>
-  </data>
   <data name="&gt;&gt;e_checkCoffee.ZOrder" xml:space="preserve">
     <value>13</value>
   </data>
-  <data name="e_textQR.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+  <data name="e_comboJamoat.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
   <data name="&gt;&gt;deleteBtn.Parent" xml:space="preserve">
@@ -1512,14 +1518,8 @@
   <data name="tableLayoutPanel7.Size" type="System.Drawing.Size, System.Drawing">
     <value>500, 373</value>
   </data>
-  <data name="labelParticipant.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 258</value>
-  </data>
   <data name="&gt;&gt;closeBtn.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;e_comboDistrict.Name" xml:space="preserve">
-    <value>e_comboDistrict</value>
   </data>
   <data name="label21.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1527,8 +1527,8 @@
   <data name="&gt;&gt;label16.Name" xml:space="preserve">
     <value>label16</value>
   </data>
-  <data name="tableLayoutPanel11.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
+  <data name="labelParticipant.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 258</value>
   </data>
   <data name="e_textAge.Location" type="System.Drawing.Point, System.Drawing">
     <value>223, 218</value>
@@ -1539,14 +1539,14 @@
   <data name="&gt;&gt;label1.Name" xml:space="preserve">
     <value>label1</value>
   </data>
-  <data name="label28.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>TopRight</value>
+  <data name="buttonPrint.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 36</value>
   </data>
   <data name="&gt;&gt;label2.Parent" xml:space="preserve">
     <value>tableLayoutPanel1</value>
   </data>
-  <data name="e_labelVillage.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>TopRight</value>
+  <data name="&gt;&gt;e_comboType.Name" xml:space="preserve">
+    <value>e_comboType</value>
   </data>
   <data name="label23.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopRight</value>
@@ -1566,8 +1566,8 @@
   <data name="e_labelVillage.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 5, 0, 0</value>
   </data>
-  <data name="&gt;&gt;label21.Name" xml:space="preserve">
-    <value>label21</value>
+  <data name="e_textAge.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
   </data>
   <data name="e_comboDistrict.TabIndex" type="System.Int32, mscorlib">
     <value>22</value>
@@ -1581,8 +1581,8 @@
   <data name="&gt;&gt;deleteBtn.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="e_textVillage.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
+  <data name="e_textPassport.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 26</value>
   </data>
   <data name="e_textAccommodation.Size" type="System.Drawing.Size, System.Drawing">
     <value>274, 26</value>
@@ -1590,20 +1590,20 @@
   <data name="label29.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="&gt;&gt;label27.Parent" xml:space="preserve">
+    <value>tableLayoutPanel11</value>
+  </data>
   <data name="label25.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
-  <data name="tableLayoutPanel2.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;label18.ZOrder" xml:space="preserve">
-    <value>5</value>
+  <data name="tableLayoutPanel2.ColumnCount" type="System.Int32, mscorlib">
+    <value>2</value>
   </data>
   <data name="&gt;&gt;e_comboGender.Name" xml:space="preserve">
     <value>e_comboGender</value>
   </data>
-  <data name="e_labelVillage.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 86</value>
+  <data name="closeBtn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
   </data>
   <data name="label1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1629,14 +1629,14 @@
   <data name="&gt;&gt;label21.Parent" xml:space="preserve">
     <value>tableLayoutPanel7</value>
   </data>
-  <data name="buttonPrint.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
+  <data name="idField.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopRight</value>
   </data>
-  <data name="&gt;&gt;label23.ZOrder" xml:space="preserve">
-    <value>5</value>
+  <data name="e_labelVillage.Text" xml:space="preserve">
+    <value>Village</value>
   </data>
   <data name="e_comboType.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12.5pt</value>
@@ -1653,8 +1653,8 @@
   <data name="&gt;&gt;e_textOther.Parent" xml:space="preserve">
     <value>tableLayoutPanel17</value>
   </data>
-  <data name="e_comboType.Items1" xml:space="preserve">
-    <value>Агроном</value>
+  <data name="e_textAge.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
   </data>
   <data name="tableLayoutPanel17.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -1662,14 +1662,14 @@
   <data name="e_checkCoffee.Size" type="System.Drawing.Size, System.Drawing">
     <value>274, 26</value>
   </data>
-  <data name="&gt;&gt;e_checkCoffee.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="deleteBtn.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
   </data>
-  <data name="&gt;&gt;label28.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="idField.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14pt</value>
   </data>
   <data name="label2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -1680,14 +1680,14 @@
   <data name="&gt;&gt;label20.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
-  <data name="&gt;&gt;labelParticipant.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="buttonPrint.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 3</value>
   </data>
   <data name="e_textQR.MaxLength" type="System.Int32, mscorlib">
     <value>5</value>
   </data>
-  <data name="e_textVillage.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12.5pt</value>
+  <data name="tableLayoutPanel2.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
   </data>
   <data name="e_comboGender.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12.5pt</value>
@@ -1698,14 +1698,11 @@
   <data name="label1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 3, 0, 3</value>
   </data>
-  <data name="&gt;&gt;closeBtn.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
   <data name="closeBtn.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 3</value>
   </data>
-  <data name="&gt;&gt;e_textTransportCost.ZOrder" xml:space="preserve">
-    <value>7</value>
+  <data name="&gt;&gt;label19.Parent" xml:space="preserve">
+    <value>tableLayoutPanel7</value>
   </data>
   <data name="tableLayoutPanel1.ColumnCount" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1713,8 +1710,8 @@
   <data name="&gt;&gt;tableLayoutPanel3.Parent" xml:space="preserve">
     <value>tableLayoutPanel1</value>
   </data>
-  <data name="label25.Size" type="System.Drawing.Size, System.Drawing">
-    <value>214, 72</value>
+  <data name="&gt;&gt;tableLayoutPanel11.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel11.Type" xml:space="preserve">
     <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1722,8 +1719,8 @@
   <data name="label21.Size" type="System.Drawing.Size, System.Drawing">
     <value>214, 43</value>
   </data>
-  <data name="label27.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
+  <data name="e_textPassport.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
   </data>
   <data name="e_checkCoffee.TabIndex" type="System.Int32, mscorlib">
     <value>25</value>
@@ -1737,17 +1734,17 @@
   <data name="&gt;&gt;e_textParName2.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="e_comboGender.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
+  <data name="tableLayoutPanel2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>18, 0, 60, 0</value>
   </data>
   <data name="tableLayoutPanel4.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="label3" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="idField" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,82.89761,Percent,17.1024" /&gt;&lt;Rows Styles="Percent,50" /&gt;&lt;/TableLayoutSettings&gt;</value>
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="label3" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="idField" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,82,89761,Percent,17,1024" /&gt;&lt;Rows Styles="Percent,50" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
-  <data name="&gt;&gt;label25.ZOrder" xml:space="preserve">
-    <value>2</value>
+  <data name="&gt;&gt;label27.ZOrder" xml:space="preserve">
+    <value>10</value>
   </data>
-  <data name="&gt;&gt;e_textQR.Parent" xml:space="preserve">
-    <value>tableLayoutPanel7</value>
+  <data name="label20.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopRight</value>
   </data>
   <data name="tableLayoutPanel17.Size" type="System.Drawing.Size, System.Drawing">
     <value>280, 72</value>
@@ -1758,8 +1755,11 @@
   <data name="label21.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
   </data>
-  <data name="&gt;&gt;label29.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;e_labelVillage.Name" xml:space="preserve">
+    <value>e_labelVillage</value>
+  </data>
+  <data name="closeBtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>905, 4</value>
   </data>
   <data name="e_labelVillage.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
@@ -1773,8 +1773,8 @@
   <data name="&gt;&gt;label3.Parent" xml:space="preserve">
     <value>tableLayoutPanel4</value>
   </data>
-  <data name="e_textQR.Location" type="System.Drawing.Point, System.Drawing">
-    <value>223, 3</value>
+  <data name="&gt;&gt;tableLayoutPanel2.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="label19.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1782,11 +1782,11 @@
   <data name="&gt;&gt;buttonPrint.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="label18.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>TopRight</value>
+  <data name="&gt;&gt;closeBtn.Name" xml:space="preserve">
+    <value>closeBtn</value>
   </data>
-  <data name="label25.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12pt</value>
+  <data name="&gt;&gt;deleteBtn.Name" xml:space="preserve">
+    <value>deleteBtn</value>
   </data>
   <data name="&gt;&gt;buttonPrint.Name" xml:space="preserve">
     <value>buttonPrint</value>
@@ -1797,20 +1797,20 @@
   <data name="labelParticipant.Size" type="System.Drawing.Size, System.Drawing">
     <value>214, 43</value>
   </data>
-  <data name="&gt;&gt;e_labelVillage.Name" xml:space="preserve">
-    <value>e_labelVillage</value>
+  <data name="&gt;&gt;e_comboDistrict.Name" xml:space="preserve">
+    <value>e_comboDistrict</value>
   </data>
   <data name="&gt;&gt;label1.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;label24.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="idField.Location" type="System.Drawing.Point, System.Drawing">
+    <value>763, 5</value>
   </data>
   <data name="label22.Text" xml:space="preserve">
     <value>Jamoat</value>
   </data>
-  <data name="e_comboDistrict.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12.5pt</value>
+  <data name="&gt;&gt;label29.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="tableLayoutPanel7.Location" type="System.Drawing.Point, System.Drawing">
     <value>16, 10</value>

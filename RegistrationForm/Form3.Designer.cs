@@ -314,6 +314,7 @@
             this.btn_next_d.Name = "btn_next_d";
             this.btn_next_d.TabStop = false;
             this.btn_next_d.UseVisualStyleBackColor = false;
+            this.btn_next_d.Click += new System.EventHandler(this.btn_next_d_Click);
             // 
             // btn_new_d
             // 

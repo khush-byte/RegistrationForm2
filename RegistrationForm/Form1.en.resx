@@ -118,27 +118,18 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="buttonUpdate.Location" type="System.Drawing.Point, System.Drawing">
-    <value>44, 2</value>
+  <data name="buttonSubmit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>343, 2</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="buttonUpdate.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
-  </data>
-  <data name="buttonUpdate.Size" type="System.Drawing.Size, System.Drawing">
-    <value>144, 43</value>
-  </data>
-  <data name="buttonSubmit.Location" type="System.Drawing.Point, System.Drawing">
-    <value>194, 2</value>
-  </data>
   <data name="buttonSubmit.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 2, 3, 2</value>
   </data>
   <data name="buttonSubmit.Size" type="System.Drawing.Size, System.Drawing">
-    <value>143, 43</value>
+    <value>142, 43</value>
   </data>
   <data name="buttonPrint.Location" type="System.Drawing.Point, System.Drawing">
-    <value>343, 2</value>
+    <value>491, 2</value>
   </data>
   <data name="buttonPrint.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 2, 3, 2</value>
@@ -163,6 +154,15 @@
   </data>
   <data name="buttonEdit.Size" type="System.Drawing.Size, System.Drawing">
     <value>144, 43</value>
+  </data>
+  <data name="buttonUpdate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>194, 2</value>
+  </data>
+  <data name="buttonUpdate.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="buttonUpdate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>143, 43</value>
   </data>
   <data name="tableLayoutPanel4.Size" type="System.Drawing.Size, System.Drawing">
     <value>1364, 47</value>
@@ -923,7 +923,7 @@
 </value>
   </data>
   <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>652, 2</value>
+    <value>614, 2</value>
   </data>
   <data name="pictureBox1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 2, 13, 2</value>
@@ -1226,22 +1226,22 @@
 </value>
   </data>
   <data name="pictureBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>853, 2</value>
+    <value>815, 2</value>
   </data>
   <data name="pictureBox2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 2, 3, 2</value>
   </data>
   <data name="pictureBox2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>212, 42</value>
+    <value>205, 42</value>
   </data>
   <data name="date_field.Location" type="System.Drawing.Point, System.Drawing">
-    <value>356, 11</value>
+    <value>339, 11</value>
   </data>
   <data name="date_field.Size" type="System.Drawing.Size, System.Drawing">
-    <value>152, 27</value>
+    <value>146, 27</value>
   </data>
   <data name="leble001.Location" type="System.Drawing.Point, System.Drawing">
-    <value>265, 0</value>
+    <value>248, 0</value>
   </data>
   <data name="leble001.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>29, 2, 0, 0</value>
@@ -1250,55 +1250,7 @@
     <value>91, 45</value>
   </data>
   <data name="tableLayoutPanel12.Size" type="System.Drawing.Size, System.Drawing">
-    <value>508, 46</value>
-  </data>
-  <data name="btnEng.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Left</value>
-  </data>
-  <data name="btnEng.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="btnEng.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 10pt, style=Underline</value>
-  </data>
-  <data name="btnEng.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1182, 2</value>
-  </data>
-  <data name="btnEng.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
-  </data>
-  <data name="btnEng.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 42</value>
-  </data>
-  <data name="btnEng.Text" xml:space="preserve">
-    <value>English</value>
-  </data>
-  <data name="btnEng.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="btnTaj.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Right</value>
-  </data>
-  <data name="btnTaj.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="btnTaj.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 10pt</value>
-  </data>
-  <data name="btnTaj.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1073, 2</value>
-  </data>
-  <data name="btnTaj.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
-  </data>
-  <data name="btnTaj.Size" type="System.Drawing.Size, System.Drawing">
-    <value>103, 42</value>
-  </data>
-  <data name="btnTaj.Text" xml:space="preserve">
-    <value>Тоҷикӣ</value>
-  </data>
-  <data name="btnTaj.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleRight</value>
+    <value>485, 46</value>
   </data>
   <data name="tableLayoutPanel2.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 2</value>
@@ -1486,6 +1438,9 @@
   <data name="tableLayoutPanel13.Size" type="System.Drawing.Size, System.Drawing">
     <value>446, 399</value>
   </data>
+  <data name="label23.Size" type="System.Drawing.Size, System.Drawing">
+    <value>161, 50</value>
+  </data>
   <data name="comboJamoat.Location" type="System.Drawing.Point, System.Drawing">
     <value>170, 49</value>
   </data>
@@ -1519,32 +1474,11 @@
   <data name="textAccommodation.Size" type="System.Drawing.Size, System.Drawing">
     <value>208, 31</value>
   </data>
-  <data name="label23.Size" type="System.Drawing.Size, System.Drawing">
-    <value>161, 50</value>
-  </data>
   <data name="label29.Size" type="System.Drawing.Size, System.Drawing">
     <value>161, 47</value>
   </data>
-  <data name="textTransportCost.Location" type="System.Drawing.Point, System.Drawing">
-    <value>170, 284</value>
-  </data>
-  <data name="textTransportCost.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
-  </data>
-  <data name="textTransportCost.Size" type="System.Drawing.Size, System.Drawing">
-    <value>208, 31</value>
-  </data>
-  <data name="checkStationary.Location" type="System.Drawing.Point, System.Drawing">
-    <value>170, 237</value>
-  </data>
-  <data name="checkStationary.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
-  </data>
-  <data name="checkStationary.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 2, 0, 0</value>
-  </data>
-  <data name="checkStationary.Size" type="System.Drawing.Size, System.Drawing">
-    <value>208, 31</value>
+  <data name="checkSupper.Location" type="System.Drawing.Point, System.Drawing">
+    <value>170, 238</value>
   </data>
   <data name="label28.Size" type="System.Drawing.Size, System.Drawing">
     <value>161, 47</value>
@@ -1589,6 +1523,18 @@
     <value>3, 2, 3, 2</value>
   </data>
   <data name="textVillage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>208, 31</value>
+  </data>
+  <data name="checkStationary.Location" type="System.Drawing.Point, System.Drawing">
+    <value>170, 284</value>
+  </data>
+  <data name="checkStationary.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="checkStationary.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 2, 0, 0</value>
+  </data>
+  <data name="checkStationary.Size" type="System.Drawing.Size, System.Drawing">
     <value>208, 31</value>
   </data>
   <data name="tableLayoutPanel11.Location" type="System.Drawing.Point, System.Drawing">

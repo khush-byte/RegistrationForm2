@@ -25,18 +25,18 @@ namespace RegistrationForm
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form3 f3 = new Form3();
-            f3.Show();
-            f3.FormClosing += (obj, args) => { this.Close(); };
+            Form3 form = new Form3();
             this.Hide();
+            form.ShowDialog();
+            this.Close();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form1 f1 = new Form1();
-            f1.Show();
-            f1.FormClosing += (obj, args) => { this.Close(); };
+            Form1 form = new Form1();
             this.Hide();
+            form.ShowDialog();
+            this.Close();
         }
 
         private void btnTaj_Click(object sender, EventArgs e)
