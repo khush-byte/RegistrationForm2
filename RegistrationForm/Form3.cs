@@ -274,7 +274,7 @@ namespace RegistrationForm
             if (comboCom.Text == "Дигар") commod = textCom.Text.ToString();
             if (comboUnit.Text == "Дигар") unit_value = textUnit.Text.ToString();
 
-            if (commod.Length > 0 && unit_value.Length > 0 && packFiled.Text.Length > 0 && totalField.Text.Length > 0 && conditionField.Text.Length > 0)
+            if (commod.Length > 0 && unit_value.Length > 0 && packFiled.Text.Length > 0 && totalField.Text.Length > 0)
             {
                 var result = MessageBox.Show(message, "Message",
                                              MessageBoxButtons.OKCancel,

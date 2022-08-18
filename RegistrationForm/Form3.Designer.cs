@@ -663,7 +663,8 @@
             resources.GetString("comboUnit.Items3"),
             resources.GetString("comboUnit.Items4"),
             resources.GetString("comboUnit.Items5"),
-            resources.GetString("comboUnit.Items6")});
+            resources.GetString("comboUnit.Items6"),
+            resources.GetString("comboUnit.Items7")});
             this.comboUnit.Name = "comboUnit";
             this.comboUnit.SelectedIndexChanged += new System.EventHandler(this.comboUnit_SelectedIndexChanged);
             // 

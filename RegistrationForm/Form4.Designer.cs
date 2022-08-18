@@ -28,34 +28,110 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            this.listDataGridView = new System.Windows.Forms.DataGridView();
+            this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
+            this.id = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.full_name = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.qr = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.phone = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            ((System.ComponentModel.ISupportInitialize)(this.listDataGridView)).BeginInit();
+            this.tableLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // label1
+            // listDataGridView
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(215, 194);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(44, 16);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "label1";
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.listDataGridView.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            this.listDataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.listDataGridView.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.id,
+            this.full_name,
+            this.qr,
+            this.phone});
+            this.listDataGridView.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.listDataGridView.EditMode = System.Windows.Forms.DataGridViewEditMode.EditProgrammatically;
+            this.listDataGridView.Location = new System.Drawing.Point(3, 273);
+            this.listDataGridView.Name = "listDataGridView";
+            this.listDataGridView.ReadOnly = true;
+            this.listDataGridView.RowHeadersWidth = 51;
+            this.listDataGridView.RowTemplate.Height = 24;
+            this.listDataGridView.Size = new System.Drawing.Size(794, 174);
+            this.listDataGridView.TabIndex = 1;
+            // 
+            // tableLayoutPanel1
+            // 
+            this.tableLayoutPanel1.ColumnCount = 1;
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tableLayoutPanel1.Controls.Add(this.listDataGridView, 0, 2);
+            this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
+            this.tableLayoutPanel1.Name = "tableLayoutPanel1";
+            this.tableLayoutPanel1.RowCount = 3;
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 40F));
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(800, 450);
+            this.tableLayoutPanel1.TabIndex = 2;
+            // 
+            // id
+            // 
+            this.id.HeaderText = "№";
+            this.id.MinimumWidth = 6;
+            this.id.Name = "id";
+            this.id.ReadOnly = true;
+            this.id.Width = 60;
+            // 
+            // full_name
+            // 
+            this.full_name.HeaderText = "Номунасаб";
+            this.full_name.MinimumWidth = 6;
+            this.full_name.Name = "full_name";
+            this.full_name.ReadOnly = true;
+            this.full_name.Width = 200;
+            // 
+            // qr
+            // 
+            this.qr.HeaderText = "QR код";
+            this.qr.MinimumWidth = 6;
+            this.qr.Name = "qr";
+            this.qr.ReadOnly = true;
+            // 
+            // phone
+            // 
+            this.phone.HeaderText = "телефон";
+            this.phone.MinimumWidth = 6;
+            this.phone.Name = "phone";
+            this.phone.ReadOnly = true;
             // 
             // Form4
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Form4";
             this.Text = "Form4";
             this.Load += new System.EventHandler(this.Form4_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.listDataGridView)).EndInit();
+            this.tableLayoutPanel1.ResumeLayout(false);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.DataGridView listDataGridView;
+        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn id;
+        private System.Windows.Forms.DataGridViewTextBoxColumn full_name;
+        private System.Windows.Forms.DataGridViewTextBoxColumn qr;
+        private System.Windows.Forms.DataGridViewTextBoxColumn phone;
     }
 }

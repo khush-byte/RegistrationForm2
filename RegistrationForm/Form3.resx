@@ -3045,24 +3045,27 @@
     <value>Microsoft Sans Serif, 12pt</value>
   </data>
   <data name="comboUnit.Items" xml:space="preserve">
-    <value>Рулон</value>
+    <value>рулон</value>
   </data>
   <data name="comboUnit.Items1" xml:space="preserve">
-    <value>Баста</value>
+    <value>баста</value>
   </data>
   <data name="comboUnit.Items2" xml:space="preserve">
-    <value>Дона</value>
+    <value>дона</value>
   </data>
   <data name="comboUnit.Items3" xml:space="preserve">
-    <value>Килограмм</value>
+    <value>кг</value>
   </data>
   <data name="comboUnit.Items4" xml:space="preserve">
-    <value>Литр</value>
+    <value>литр</value>
   </data>
   <data name="comboUnit.Items5" xml:space="preserve">
-    <value>Метр</value>
+    <value>метр</value>
   </data>
   <data name="comboUnit.Items6" xml:space="preserve">
+    <value>қути</value>
+  </data>
+  <data name="comboUnit.Items7" xml:space="preserve">
     <value>Дигар</value>
   </data>
   <data name="comboUnit.Location" type="System.Drawing.Point, System.Drawing">

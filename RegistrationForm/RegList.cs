@@ -49,4 +49,11 @@ namespace RegistrationForm
         public string coffee { get; set; }
         public string status { get; set; }
     }
+
+    public class CommodityData
+    {
+        public string name { get; set; }
+        public string unit { get; set; }
+        public int total { get; set; }
+    }
 }
